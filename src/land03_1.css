@@ -1,0 +1,137 @@
+.land03_1 {
+  
+    background-image: url("./images/hero-bg2-1.png");
+    background-size:auto;
+    background-repeat:no-repeat;
+    border-bottom: 1px solid black;
+  }
+  
+  .navbar{
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: black;
+    padding-left: 0;
+    border-radius: 50px 50px 50px 50px;
+  }
+  
+  .navMainul{
+    margin-left: 30px;
+  }
+  .navMainli{
+    margin:10px;
+    margin-left: 15px;
+  }
+  
+  .trialbtn{
+    background-color: rgb(75, 74, 74);
+    border: none;
+    color: white;
+    margin: 5px;
+    border-radius: 50px 50px 50px 50px;
+    padding: 10px;
+    font-family: Sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+  } 
+  
+  .Fpagecontainer{
+    margin-top: 200px;
+    margin-left: 0px;
+  
+    
+  }
+  
+  .handbg{
+    height: 500px;
+    width: 400px;
+    position: absolute;
+    right: 30px;
+    
+  }
+  .handimg{
+    position: relative;
+    right: 5px;
+    bottom : 180px;
+    z-index: 1;
+  }
+  .Fpageh1{
+    
+    margin-left: 0px;
+    font-size: 60px;
+    height: 200px;
+    width: 550px;
+    font-weight: 400;
+    text-align: left;
+    font-family: Sans-serif;
+  }
+  .Fpagepara{
+    padding: 20px;
+    margin-top: 20px;
+    margin-left: 100px;
+    width: 600px;
+    font-size: 25px;
+    
+    font-family: sans-serif;
+  }
+  @media screen and (max-width: 992px) {
+    .handbg{
+      height: 300px;
+      width: 230px;
+      position: absolute;
+      right: 30px;
+      
+    }
+    .handimg{
+      position: relative;
+      right: 5px;
+      bottom : 20px;
+      z-index: 1;
+      height: 240px;
+      width: 90px;
+    }
+    .Fpagecontainer{
+      margin-top: 50px;
+      margin-left: 0px;
+      
+    
+      
+    }
+    .Fpageh1{
+     
+      margin: 10px;
+      margin-left: 20px;
+      font-size: 30px;
+      height: 100px;
+      width: 300px;
+      font-weight: 400;
+      text-align: left;
+      font-family: Sans-serif;
+    }
+    .Fpagepara{
+      
+      text-align: center;
+      width: 300px;
+      font-size: 20px;
+      margin-left: 20px;
+      font-family: sans-serif;
+    }
+    .land03_1 {
+  
+      
+      border-bottom: none;
+    }
+  }
+  .Fpagebtn{
+    margin-top: 20px;
+    font-size: 14px;
+      
+      font-weight: 600;
+      line-height: 1.43em;
+      color: #fff;
+      background-color: black;
+      box-shadow: 6px 6px 0px 0px #E6FF7F;
+      
+      border-radius: 8px 8px 8px 8px;
+      padding: 20px 15px 20px 15px;
+  }
+  
