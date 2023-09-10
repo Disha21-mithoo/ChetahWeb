@@ -1,7 +1,9 @@
 import './App.css';
 import Land03_1 from './land03_1';
 import Land03_2 from './land03_2';
-import hand from "./images/Hand.png";
+import Land03_3 from './land03_3';
+import cardimg from "./images/Cardimg.png";
+import checkmark from "./images/check-mark.png";
 import Land1 from "./images/land01.png";
 import Land2 from "./images/land02.png";
 import Land3 from "./images/land03.png";
@@ -12,9 +14,9 @@ import Land6 from "./images/land06.png";
 function App() {
   return (
     <div className="App">
-       {/* <Land03_1></Land03_1> 
-       <Land03_2></Land03_2> */}
-       
+      <Land03_1></Land03_1> 
+       <Land03_2></Land03_2>
+       <Land03_3></Land03_3>
        
       
     </div>

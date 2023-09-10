@@ -2,22 +2,3 @@
   text-align: center;
   overflow: hidden;
 }
-
-.Spageicon{
-  height: 55px;
-  width: 55px;
-  margin: 0;
-}
-.SpageCardtitle{
-  text-align: left;
-}
-.SpageCard{
-  border: none;
-  
-}
-.SpageCardText{
-  text-align: left;
-}
-.SpageRow{
-  margin-top: 30px;
-}
