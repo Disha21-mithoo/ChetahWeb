@@ -1,0 +1,130 @@
+  .land01_1{
+    background-image: url("./images/bg.png");
+  }
+  .navbtn01{
+    color: black;
+    border: 2.5px solid black;
+    margin: 10px;
+    border-radius: 50px 50px 50px 50px;
+    padding: 10px;
+    font-family: Sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+  }
+  .Page1_01Row{
+    margin-top: 140px;
+    text-align: left;
+    padding-bottom: 30px;
+  }
+  .Page1_01h1{
+    font-size: 60px;
+    font-family: "Lora",Sans-serif;
+    
+    width: 80%;
+    padding: 10px;
+    margin: 10px;
+    
+  }
+  .Page1_01p{
+    padding: 10px;
+    margin:10px;
+    padding-top: 0px;
+    width: 70%;
+    font-size: larger;
+  }
+  .Page1_01Card2{
+    text-align: center;
+    background: transparent;
+    border: none;
+    
+  }
+  .Page1_01Card1{
+    border: none;
+    background: transparent;
+    
+  }
+  .Page1_01Card2bg{
+    background-image: url("./images/hero-content-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 75%;
+    height: 500px;
+    margin-left: 90px;
+  }
+  .Page1_01Card2img1{
+    width: 320px;
+    height: 430px;
+    position: absolute;
+    bottom: 110px;
+  }
+  .Page1_01Card2img2{
+    width: 270px;
+    position: absolute;
+    left: 0px;
+    top: 100px;
+  
+    
+  }
+  .Page1_01Card2img3{
+    position: absolute;
+    width: 320px;
+    bottom: -20px;
+    right: 120px;
+  }
+  .Page1_01Row2{
+    
+    margin-top: 50px;
+  }
+  .Fpage01btn{
+    
+    font-size: 14px;
+      
+      font-weight: 600;
+      
+      color: #fff;
+      background-color: black;
+      box-shadow: 6px 6px 0px 0px #E6FF7F;
+      
+      border-radius: 8px 8px 8px 8px;
+      padding: 20px 20px 20px 20px;
+      
+      
+  }
+  .Input01{
+    margin-right: 0px;
+    width: 115%;
+    height: 50px;
+    border: 0.3px solid rgb(93, 91, 91);
+    border-radius: 2px 2px 2px 2px;
+    border-right: none;
+    margin-left: 20px;
+    padding-left: 10px ;
+  }
+  .tt01{
+    margin-top: -10px;
+  }
+  .Page1_01h5{
+    margin-top: 35px;
+    margin-left: 20px;
+  }
+  .checked{
+    color: rgb(250, 124, 21);
+    font-size: 20px;
+    padding: 2px;
+    
+  }
+  .rating01{
+    margin-top: 10px;
+    margin-left: 20px;
+  }
+  .ratingtext{
+    margin-left: 10px;
+    margin-bottom: 5px;
+  }
+  .brandrow{
+  
+    padding-top: 100px;
+    padding-bottom: 60px;
+    background-color: white;
+    border-bottom: 0.5px solid rgb(76, 73, 73);
+  }

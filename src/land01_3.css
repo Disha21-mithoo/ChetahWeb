@@ -1,0 +1,51 @@
+
+  .Page01_3Card1,.Page01_3Card2{
+    text-align: left;
+    border: none;
+  }
+  .Page01_3Card2bg{
+      
+      margin-left: 120px;
+      border-radius: 10px 10px 10px 10px;
+      height: 490px;
+      width: 75%;
+      background-image: url("./images/content-bg1.png");
+      background-size: cover;
+      background-repeat: no-repeat;
+  }
+  .cardbg01-img1{
+    height: 370px;
+    margin-top: 50px;
+    margin-left: 50px;
+  }
+  .Page01_3text1{
+    color: orangered;
+    margin-left: 20px;
+   }
+   .iconimg01{
+    width: 20px;
+    height: 20px;
+    margin: 5px;
+   }
+   .Page01_3h1{
+    margin: 5px;
+    margin-left:20px;
+    text-align: left;
+    font-family: sans-serif;
+    font-size: 60px;
+    line-height: 1.07em;
+    width: 90%;
+   }
+   .Page01_3p{
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 80%;
+    line-height: 28px;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 21px;
+   }
+   .Page01_3Card1Content{
+    margin-top: 150px;
+   }

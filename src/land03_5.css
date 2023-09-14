@@ -1,0 +1,52 @@
+
+.land03_5{
+  margin-top: 120px;
+  margin-bottom: 20px;
+}
+.Page5Row{
+  margin-top: 15px;
+  text-align: left;
+  margin-bottom: 10px;
+}
+.cardbg-5img{
+  height: 400px;
+  width: 380px;
+  margin-top: 60px;
+  margin-right: 60px;
+
+}
+.Page5Card1, .Page5Card2{
+   
+  height:520px;
+  border: none;
+  overflow-x: hidden;
+  
+ }
+ .Page5Card1bg{
+  text-align: right;
+  margin-left: 20px;
+  border-radius: 10px 10px 10px 10px;
+  height: 100%;
+  width: 80%;
+  background-image: url("./images/content-bg1.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+ }
+ .Page5h1{
+  margin: 5px;
+  margin-left:20px;
+  text-align: left;
+  font-family: sans-serif;
+  font-size: 56px;
+  line-height: 1.07em;
+ }
+ .Page5p{
+  text-align: left;
+  margin-top: 20px;
+  margin-left: 20px;
+  width: 80%;
+  line-height: 28px;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 21px;
+ }

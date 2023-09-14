@@ -1,16 +1,22 @@
 import React, { Component } from 'react';
-import "./land03_1.css";
-import logoimg from "./images/logoimg.svg";
-import handbg from "./images/hero-content-bg1.png";
-import hand from "./images/Hand.png";
+import "./land01_1.css";
+import logoimg from "./images/oLogo.svg";
+import cardimg2 from "./images/abs-img3.png";
+import cardimg3 from "./images/Card-1-2.png";
+import cardimg4 from "./images/Card-2.png";
+import brand1 from "./images/brand-logo1.svg";
+import brand2 from "./images/brand-logo2.svg";
+import brand3 from "./images/brand-logo3.svg";
+import brand4 from "./images/brand-logo4.svg";
+import brand5 from "./images/brand-logo5.svg";
 
 
 
-const Land03_1 = () => {
+
+const Land01_1 = () => {
     return(
-        <div class="land03_1">
-        <br></br>
-          <nav class="navbar navbar-expand-lg navbar-dark navbar03">
+        <div class="land01_1">
+         <nav class="navbar navbar-expand-lg navbar01">
         <div class="container-fluid">
           <a class="navbar-brand" href="#"><span><img src={logoimg}></img></span></a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -64,32 +70,60 @@ const Land03_1 = () => {
               </li>
               
             </ul>
-              <button class="btn btn-outline-light trialbtn">Get 14 Days Free Trial</button>
+              <button class="btn btn-outline-dark navbtn01"><b>Start Free Trial</b></button>
           </div>
         </div>
       </nav>
-      <div class="container Fpagecontainer">
-        <div class="row Fpagerow">
-          <div class="col-lg-6">
-            <div class="p-5 mt-4">
-              <h1 className='Fpageh1'><b>Unleash the speed of your transactions.</b></h1>
-              <p class="lead Fpagepara">Efficiently manage and resolve customer issues, improve satisfaction and boost your bottom line with our all-in-one customer.</p>
-              <div>
-    <a href="#" className="Fpagebtn"><span className='Fpagebtname'>Get 14 Days Free Trial</span></a>
-    </div>
-            </div>
-          </div>
-          <div class="col-lg-6">
-            <div className='imgCombined'>
-              <img class="w-100 handimg" src={hand} />
-              <img class=" handbg" src={handbg} /> 
-
-            </div>
-            
-          </div>
-        </div>
+      <div class="row Page1_01Row">
+  
+  <div class="col-sm-6 mb-3 mb-sm-0">
+    <div class="card Page1_01Card1">
+      
+      <div>  <h1 className='Page1_01h1'>Generate More Leads Than Ever, with Chetah.</h1> </div>
+      <div><p className='Page1_01p'>Say Goodbye to Cold Calls and Hello to High-Quality Leads with Our User-Friendly Platform.</p></div>
+      
+      <div className='row Page1_01Row2'>
+      
+         <div className='col-6 tt01'>
+          <input placeholder='Enter your Email-id' className='Input01'></input>
+         </div>
+         <div className='col-5'>
+         <a href="#" className="Fpage01btn"><span className='Fpage01btname'>Get 14 Days Free Trial</span></a>
+         </div>
+         <div className='col-1'>
+          
+         </div>
       </div>
+      <h5 className='Page1_01h5'>Trusted by 6,287 users</h5>
+      <span className='rating01'>
+      <span class="fa fa-star checked"></span>
+     <span class="fa fa-star checked"></span>
+    <span class="fa fa-star checked"></span>
+    <span class="fa fa-star checked"></span>
+    <span class="fa fa-star checked"></span>
+    <span className='ratingtext'>4.1/5 (14k Reviews)</span>
+</span>
+    </div>
+  </div>
+  <div class="col-sm-6 ">
+    <div class="card Page1_01Card2">
+      <div className='Page1_01Card2bg'>
+      <img src={cardimg3} alt='' className='Page1_01Card2img2'></img>
+        <img src={cardimg2} alt='' className='Page1_01Card2img1'></img>
+        <img src={cardimg4} alt='' className='Page1_01Card2img3'></img>
+        </div>
+    </div>
+  </div>
+</div>
+<div className='row brandrow'>
+  <div className='col'><img src={brand1}></img></div>
+  <div className='col'><img src={brand2}></img></div>
+  <div className='col'><img src={brand3}></img></div>
+  <div className='col'><img src={brand4}></img></div>
+  <div className='col'><img src={brand5}></img></div>
+</div>
         </div>
     );
 }
-export default Land03_1;
+
+export default Land01_1;

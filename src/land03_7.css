@@ -1,0 +1,63 @@
+
+  .Page7Row{
+    background-color: rgb(46, 45, 45);
+    
+  }
+  .Page7Card1, .Page7Card2{
+    background-color: rgb(46, 45, 45) ;
+    color: white;
+    padding-top: 90px;
+    padding-bottom: 70px;
+    text-align: left;
+    border: none;
+  }
+  .Page7img1,.Page7img2,.Page7img3{
+    position: absolute;
+  }
+  .Page7h1{
+    font-family: 'Merriweather', serif;
+    font-size: 55px;
+    text-align: left;
+    margin-left: 50px;
+  }
+  .Page7p{
+    margin-left: 50px;
+    width: 60%;
+  }
+  .Page7img1{
+    top: 0px;
+    left: 400px;
+  }
+  .Page7img3{
+    bottom: 0px;
+    left: 180px;
+  }
+  .P7trialbtn{
+       font-size: 14px;
+         width: 230px;
+        font-weight: 600;
+        line-height: 1.43em;
+        color: black;
+        background-color: white;
+        box-shadow: 6px 6px 0px 0px #E6FF7F;
+        border: 2px solid black;
+        border-radius: 8px 8px 8px 8px;
+        padding: 20px 15px 20px 15px;
+        margin-left: 220px;
+        margin-top: 60px;
+  }
+  .Page7img2{
+    bottom: 10px;
+    right: 90px;
+  }
+  
+  
+  @media screen and (max-width: 992px) {
+    .P7trialbtn{
+       margin-left: 90px;
+       margin-top: 10px;
+  }
+  .Page7Card1, .Page7Card2{
+    text-align: center;
+  }
+  }

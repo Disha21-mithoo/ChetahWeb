@@ -1,48 +1,55 @@
-.land03_3{
-    margin-top: 120px;
-    margin-bottom: 20px;
-}
-.Page3Row{
+.Page4Row{
     margin-top: 15px;
-    text-align: left;
+    
   }
-  .cardbg-1img{
+  .land03_4{
+    margin-top: 150px;
+  }
+  .cardbg-2img{
     height: 400px;
     width: 380px;
     position: relative;
-    top: 50px;
-    left: 90px;
+    top: 120px;
+    right: 90px;
   
   }
-  .Page3Card1, .Page3Card2{
+  .Page4Card2{
+    margin-left: 200px;
+  }
+  .Page4Card1, .Page4Card2{
    
    height:520px;
    border: none;
    
   }
-  .Page3Card2inner{
-    margin-top: 60px;
-  }
-  .Page3Card1bg{
-    text-align: right;
-    margin-left: 20px;
+  .Page4Card2bg{
+    
     border-radius: 10px 10px 10px 10px;
-    height: 100%;
+    height: 90%;
     width: 370px;
     background-image: url("./images/content-bg1.png");
     background-size: cover;
     background-repeat: no-repeat;
    }
-   .Page3h1{
+  .Page4Card1inner{
+    margin-top: 50px;
+    margin-left: 30px;
+  }
+  .Page4Card1h5{
+    text-align: left;
+  }
+   .Page4h1{
     margin: 5px;
+    margin-left:20px;
     text-align: left;
     font-family: sans-serif;
     font-size: 56px;
     line-height: 1.07em;
    }
-   .Page3p{
+   .Page4p{
+    text-align: left;
     margin-top: 20px;
-    margin-left: 10px;
+    margin-left: 20px;
     width: 80%;
     line-height: 28px;
     font-weight: 400;
@@ -51,17 +58,19 @@
    }
   
    @media screen and (max-width: 992px) {
-    .cardbg-1img{
-      height: 350px;
+    .cardbg-2img{
+      height: 320px;
       width: 320px;
       margin-top: 80px;
-      margin-right: 25px;
+      margin-right: 10px;
       position:static;
     }
-    .Page3Card1bg{
+    .Page4Card2{
+   
       margin-left: 60px;
-    }
-    .Page3Card2{
+      
+     }
+    .Page4Card1{
    
       height:auto;
       
@@ -71,9 +80,9 @@
     height: 28px;
     width: 28px;
     margin: 4px;
-    margin-right: 6px;
+    
    }
-   .Page3Card2p2{
+   .Page4Card1p2{
     margin-left: 40px;
     width: 45%;
     font-family: Inter;
