@@ -1,0 +1,44 @@
+.land01_5{
+    padding-bottom: 50px;
+}
+
+
+.Page01_5h1{
+    text-align: center;
+    width: 700px;
+    margin-left: 300px ;
+    font-size: 60px;
+    
+    font-family:'Times New Roman', Times, serif;
+    padding-bottom: 30px;
+}
+.Page01_5Row2{
+    padding: 30px;
+    
+}
+.card5_p{
+    padding-bottom: 40px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 10px;
+    font-size: 20px;
+}
+.Page01_5card{
+    border: 2.5px solid black;
+    border-radius: 5px 5px 5px 5px;
+    padding: 10px;
+    text-align: left;
+}
+
+@media screen and (max-width: 992px) {
+    .Page01_5h1{
+        text-align: left;
+        width: 450px;
+        margin-left: 20px;
+        font-size: 40px;
+    
+    }
+    .Page01_5card{
+        margin-bottom: 10px;
+    }
+}

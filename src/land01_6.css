@@ -1,0 +1,68 @@
+.land01_6{
+    background-color: rgb(39, 36, 36);
+    text-align: left;
+}
+
+.navbtn01_6{
+    margin-top: 10px;
+      font-size: 14px;
+      margin-left: 15px;
+      font-weight: 400;
+      width: 200px;
+      color: black;
+      background-color: white;
+      box-shadow: 6px 6px 0px 0px #E6FF7F;
+      
+      border-radius: 8px 8px 8px 8px;
+      padding: 20px 20px 20px 20px;
+      
+   }
+.page01_6card1, .page01_6card2{
+    height: 620px;
+    background-color: rgb(39, 36, 36);
+    color: white;
+    
+    padding: 10px;
+    text-align: center;
+}
+.imgp01_61{
+    height: 400px;
+    margin-top: 120px;
+}
+.imgp01_64{
+    height: 370px;
+    width: 300px;
+    position: absolute;
+    top: 180px;
+    
+}
+.imgp01_65{
+    height: 360px;
+    width: 280px;
+    position: absolute;
+    top: 100px;
+    right: 40px;
+}
+.imgp01_62{
+    height: 70px;
+    width: 70px;
+    margin-top: 120px;
+    margin-left: 50px;
+}
+.imgp01_63{
+    height: 70px;
+    width: 70px;
+    margin-top: 500px;
+    
+}
+.page01_6h1{
+    margin-top: 200px;
+    font-size: 60px;
+    text-align: left;
+    padding: 10px;
+}
+.page01_6p1{
+    padding: 10px;
+    text-align: left;
+    width: 500px;
+}

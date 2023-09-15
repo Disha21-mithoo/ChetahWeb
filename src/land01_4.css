@@ -1,0 +1,113 @@
+
+  
+  
+  
+  .Page01_4Row{
+    margin-top: 80px;
+    text-align: left;
+    padding-bottom: 40px;
+  }
+  .cardbg01-img1{
+    
+    width: 380px;
+    margin-top: 40px;
+    margin-right: 60px;
+  
+  }
+  .cardbg01-img4{
+    margin-top: 30px;
+    margin-right: 370px;
+  
+  }
+  .cardbg01-img3{
+    margin-top: 0px;
+    margin-right: 50px;
+  
+  }
+  
+  .Page01_4Card1, .Page01_4Card2{
+     
+    height:520px;
+    border: none;
+    overflow: hidden;
+    
+   }
+   .Page01_4Card1bg{
+    text-align: right;
+    margin-left: 20px;
+    border-radius: 10px 10px 10px 10px;
+    height: 100%;
+    width: 80%;
+    background-image: url("./images/content-bg1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+   }
+   .Page01_4h1{
+    margin: 5px;
+    margin-left:10px;
+    text-align: left;
+    font-family: sans-serif;
+    font-size: 60px;
+    line-height: 1.07em;
+    
+   }
+   .Page01_4p{
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 20px;
+    
+    line-height: 28px;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 21px;
+   }
+   @media screen and (max-width: 992px) {
+    
+   
+    
+    .Page01_4Row{
+      
+      text-align: center;
+      
+    }
+    .Page01_4Card2{
+        height: fit-content;
+    }
+    .Page01_4Card1{
+     text-align: center;
+    }
+    .cardbg01-img1{
+    
+        width: 250px;
+        
+        
+      
+      }
+   }
+   
+   .iconimg01{
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+    
+   }
+   
+   .navbtn01_4{
+    margin-top: 10px;
+      font-size: 14px;
+      margin-left: 15px;
+      font-weight: 400;
+      
+      color: #fff;
+      background-color: black;
+      box-shadow: 6px 6px 0px 0px #E6FF7F;
+      
+      border-radius: 8px 8px 8px 8px;
+      padding: 20px 20px 20px 20px;
+      
+   }
+   .page01_4Row2{
+    margin-left: 10px;
+    margin-top: 70px;
+   }
+  

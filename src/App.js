@@ -4,6 +4,10 @@ import './App.css';
 import Land01_1 from './land01_1';
 import Land01_2 from './land01_2';
 import Land01_3 from './land01_3';
+import Land01_4 from './land01_4';
+import Land01_5 from './land01_5';
+import Land01_6 from './land01_6';
+import Land01_7 from './land01_7';
 import Land03_6 from './land03_6';
 import Land03_1 from './land03_1';
 import Land03_2 from './land03_2';
@@ -18,6 +22,7 @@ import Land4 from "./images/land04.png";
 import Land5 from "./images/land05.png";
 import Land6 from "./images/land06.png";
 
+
 function App() {
   return (
     <div className="App">
@@ -27,10 +32,14 @@ function App() {
        <Land03_4></Land03_4> 
        <Land03_5></Land03_5>
        <Land03_6></Land03_6> 
-       <Land03_7></Land03_7>  
+       <Land03_7></Land03_7> */} 
        <Land01_1></Land01_1>
        <Land01_2></Land01_2>
-       <Land01_3></Land01_3>*/}
+       <Land01_3></Land01_3>
+       <Land01_4></Land01_4>
+       <Land01_5></Land01_5>
+       <Land01_6></Land01_6>
+       <Land01_7></Land01_7>
 
       
        
