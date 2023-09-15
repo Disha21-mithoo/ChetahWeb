@@ -1,5 +1,6 @@
 
 .land01_7{
+  padding-top: 30px;
     padding-bottom: 60px;
 }
 .Page01_7Card1,.Page01_7Card2{
@@ -53,11 +54,7 @@
     font-style: normal;
     font-size: 21px;
    }
-   .Page01_7Card1Content{
-
-    margin-top: 20px;
-    
-   }
+   
    .cardbg01-img71{
     height: 180px;
     width: 320px;

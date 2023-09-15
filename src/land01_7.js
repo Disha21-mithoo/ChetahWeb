@@ -9,12 +9,12 @@ const Land01_7 = () => {
         <div class="land01_7">
            <div class="row Page01_7Row">
   
-           <div class="col-sm-6 mb-3 mb-sm-0">
+           <div class="col-lg-6 col-md-6 col-sm-12">
   <div class="card Page01_7Card1">
-      <div className='Page01_7Card1Content'>
+      
       <span className='Page01_7text1'><span><img src={texticon} className='iconimg01'></img></span>Easy Payments</span>
       <div>  <h4 className='Page01_7h1'>Remote work made easy with better tools.</h4> </div>
-      </div>
+      
       <div className='row page01_7Row2'>
       
         
@@ -40,7 +40,7 @@ const Land01_7 = () => {
 </div>
     </div>
 
-  <div class="col-sm-6 ">
+  <div class=" col-lg-6 col-md-6 col-sm-12">
     <div class="card Page01_7Card2">
          <div className='Page01_7Card2bg'>
          <img src={cardimg2} className='cardbg01-img72'></img>

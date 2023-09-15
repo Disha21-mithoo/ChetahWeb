@@ -1,0 +1,58 @@
+.navbtn01_9{
+    margin-top: 20px;
+      font-size: 14px;
+       margin-left: 220px;
+      font-weight: 400;
+      width: 200px;
+      color: #fff;
+      background-color: black;
+      box-shadow: 6px 6px 0px 0px #E6FF7F;
+      
+      border-radius: 8px 8px 8px 8px;
+      padding: 20px 20px 20px 20px;
+      
+   }
+.page01_9card{
+    margin-top: 100px;
+    border: none;
+
+}
+.page01_9h1{
+    font-size: 55px;
+}
+.page01_9p{
+    font-size: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.page01_9p2{
+    margin-left: 20px;
+    padding: 25px;
+    color: rgb(61, 60, 60);
+}
+.topimg{
+    height: 50px;
+  margin-right: 200px;
+}
+.arrow{
+    position: absolute;
+    top: 240px;
+    left: 50px;
+}
+.man1 ,.man3{
+    margin-top: 130px;
+}
+.man2 ,.man4{
+    margin-top: 120px;
+}
+.land01_9{
+    padding-bottom: 40px;
+}
+@media screen and (max-width: 992px) {
+    .navbtn01_9{
+        margin-left: 10px;
+    }
+    .arrow{
+        z-index: -1;
+    }
+}
