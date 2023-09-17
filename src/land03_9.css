@@ -1,0 +1,75 @@
+.land03_9{
+    
+    background-color: whitesmoke;
+    padding-bottom: 100px;
+}
+.page03_9h1{
+    padding-top: 40px;
+    font-size: 56px;
+}
+
+.tickerimg{
+    width: 200px;
+
+    background-color: white;
+}
+  .ticker, .ticker1 {
+    display: flex;
+  }
+  .ticker__list {
+    display: flex;
+    margin-top: 20px;
+    animation: ticker 15s infinite linear;
+  }
+  .ticker:hover .ticker__list {
+    animation-play-state: paused;
+  }
+  .ticker__item {
+    background-color: white;
+    padding: 40px;
+    margin-right: 20px;
+  }
+  @-moz-keyframes ticker {
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+  @-webkit-keyframes ticker {
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+  @-o-keyframes ticker {
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+  @keyframes ticker {
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+  
+
+
+  @-moz-keyframes ticker1 {
+    100% {
+      transform: translateX(100%);
+    }
+  }
+  @-webkit-keyframes ticker1 {
+    100% {
+      transform: translateX(100%);
+    }
+  }
+  @-o-keyframes ticker1 {
+    100% {
+      transform: translateX(100%);
+    }
+  }
+  @keyframes ticker1 {
+    100% {
+      transform: translateX(100%);
+    }
+  }
+  
