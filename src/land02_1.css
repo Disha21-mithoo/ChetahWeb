@@ -1,0 +1,73 @@
+.land02_1{
+    text-align: center;
+}
+.navbtn02{
+    color: black;
+    border: 2.5px solid black;
+    margin: 10px;
+    border-radius: 50px 50px 50px 50px;
+    padding: 10px;
+    font-family: Sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+  }
+  .Fpage02btn{
+    
+      font-size: 14px;
+      
+      font-weight: 600;
+      
+      color: #fff;
+      background-color: black;
+      box-shadow: 6px 6px 0px 0px #E6FF7F;
+      
+      border-radius: 8px 8px 8px 8px;
+      padding: 20px;
+         
+  }
+  .page02_1Row{
+    margin-top: 60px;
+  }
+.ttk{
+  color: orangered;
+  font-size: 15px;
+  padding: 5px;
+  
+}
+  .navMainul{
+    margin-left: 30px;
+  }
+  .navMainli{
+    margin:10px;
+    margin-left: 15px;
+  }
+  .page02_1h1{
+    font-family: 'Lora', serif;
+   font-family: 'Merriweather', serif;
+    font-family: 'Noto Serif', serif;
+    font-size: 65px;
+    padding-top: 30px;
+  }
+  .page02_1p1{
+    width: 470px;
+    text-align: center;
+    margin-left: 400px;
+    padding-top: 10px;
+    padding-bottom: 40px;
+    color: rgb(86, 85, 85);
+    font-size: 18px;
+    line-height: 1.6;
+  }
+  
+  @media screen and (max-width: 992px) {
+    .page02_1h1{
+      font-size: 45px;
+      padding-top: 30px;
+    }
+    .page02_1p1{
+      width: auto;
+      text-align: center;
+      margin: 10px;
+      font-size: 15px;
+    }
+  }

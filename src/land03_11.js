@@ -12,7 +12,7 @@ const Land03_11 = () => {
         <img src={logoimg}></img>
         <img src={jaguarimg} className='jaguarimg'></img>
         <div className='row land03_11Row'>
-            <div className='col-sm-3 col-6 '>
+            <div className='col-sm-3 col-6'>
                 <p className='colheading'>Pages</p>
                 <a href='#' className='ttp'><h6 className='links'>Story</h6></a>
                 <a href='#' className='ttp'><h6 className='links'>Creative Team</h6></a>

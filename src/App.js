@@ -11,6 +11,7 @@ import Land01_7 from './land01_7';
 import Land01_8 from './land01_8';
 import Land01_9 from './land01_9';
 import Land01_10 from './land01_10';
+import Land02_1 from './land02_1';
 import Land03_1 from './land03_1';
 import Land03_2 from './land03_2';
 import Land03_3 from './land03_3';
@@ -33,7 +34,7 @@ import Land6 from "./images/land06.png";
 function App() {
   return (
     <div className="App">
-       <Land03_1></Land03_1> 
+  {/*  <Land03_1></Land03_1> 
        <Land03_2></Land03_2>
        <Land03_3></Land03_3> 
        <Land03_4></Land03_4> 
@@ -44,7 +45,7 @@ function App() {
        <Land03_9></Land03_9>
        <Land03_10></Land03_10>
        <Land03_11></Land03_11>
-   {/* <Land01_1></Land01_1>
+       <Land01_1></Land01_1>
        <Land01_2></Land01_2>
        <Land01_3></Land01_3>
        <Land01_4></Land01_4>
@@ -53,7 +54,9 @@ function App() {
        <Land01_7></Land01_7>
        <Land01_8></Land01_8>
        <Land01_9></Land01_9>
-       <Land01_10></Land01_10>*/} 
+       <Land01_10></Land01_10>  */} 
+       <Land02_1></Land02_1>
+       
 
 
       
