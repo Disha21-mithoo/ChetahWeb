@@ -1,0 +1,30 @@
+.page02_2bg{
+    background-image: url("./images/landing-02-hero-bg.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 460px;
+    border-radius: 12px 12px 12px 12px;
+    margin: 15px;
+    
+}
+.land02_2{
+    padding-top: 80px;
+    text-align: left;
+}
+.cdimg1{
+    position: absolute;
+    width: 315px;
+}
+.cdimg2{
+    position: absolute;
+    width: 315px;
+}
+.cdimg3{
+    position: absolute;
+    width: 290px;
+}
+@media screen and (max-width: 992px) {
+    .land02_2{
+        padding-top: 20px;
+    }
+}

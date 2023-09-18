@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import "./land02_1.css";
 import logoimg from "./images/oLogo.svg";
-import check from "./images/check.svg";
+
 
 
 
