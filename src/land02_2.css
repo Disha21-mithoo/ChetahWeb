@@ -8,6 +8,7 @@
     margin-bottom: 60px;
     
 }
+
 .land02_2{
     padding-top: 80px;
     
@@ -44,14 +45,25 @@
     bottom: 130px;
     left: 40px;
 }
+.page02_2Row2{
+    margin-top: 60px;
+    padding: 10px;
+    padding-bottom: 80px;
+}
 @media screen and (max-width: 992px) {
     .land02_2{
         padding-top: 20px;
-        padding: 20px;
+        padding: 10px;
+        
+    }
+    .page02_2Row2{
+        margin-top: 20px;
+        padding: 10px;
     }
     .page02_2bg{
         height: fit-content;
         padding: 10px;
+        margin-bottom: 20px;
     }
     
     .cdimg1{
@@ -81,6 +93,11 @@
         position: static;
         width: 150px;
         
+    }
+    .page02_2h2{
+        font-size: 20px;
+        padding-left: 50px;
+        padding-right: 50px;
     }
 }
 img.vert-move {
