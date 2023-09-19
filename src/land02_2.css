@@ -2,29 +2,100 @@
     background-image: url("./images/landing-02-hero-bg.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
-    height: 460px;
+    height: 500px;
     border-radius: 12px 12px 12px 12px;
     margin: 15px;
+    margin-bottom: 60px;
     
 }
 .land02_2{
     padding-top: 80px;
-    text-align: left;
+    
+    padding-bottom: 20px;
 }
 .cdimg1{
-    position: absolute;
     width: 315px;
+    position: relative;
+    left: 180px;
+    bottom: 10px;
 }
 .cdimg2{
-    position: absolute;
+    position: relative;
     width: 315px;
+    top: 140px;
+    left: 20px;
 }
 .cdimg3{
-    position: absolute;
+    position: relative;
     width: 290px;
+    bottom: 30px;
+    
+}
+.cdimg5{
+    position: relative;
+    width: 315px;
+    top: 45px;
+    right:70px;
+    
+}
+.cdimg4{
+    position: relative;
+    width: 290px;
+    bottom: 130px;
+    left: 40px;
 }
 @media screen and (max-width: 992px) {
     .land02_2{
         padding-top: 20px;
+        padding: 20px;
     }
+    .page02_2bg{
+        height: fit-content;
+        padding: 10px;
+    }
+    
+    .cdimg1{
+        width: 185px;
+        position: static;
+        
+    }
+    .cdimg2{
+        position: static;
+        width: 185px;
+        margin-top: 190px;
+    }
+    .cdimg3{
+        top: 20px;
+        width: 150px;
+        right: 40px;
+        
+    }
+    .cdimg5{
+    
+        width: 185px;
+        right: 70px;
+    
+        
+    }
+    .cdimg4{
+        position: static;
+        width: 150px;
+        
+    }
+}
+img.vert-move {
+    -webkit-animation: mover 1s infinite  alternate;
+    animation: mover 1s infinite  alternate;
+}
+img.vert-move {
+    -webkit-animation: mover 1s infinite  alternate;
+    animation: mover 1s infinite  alternate;
+}
+@-webkit-keyframes mover {
+    0% { transform: translateY(0); }
+    100% { transform: translateY(-10px); }
+}
+@keyframes mover {
+    0% { transform: translateY(0); }
+    100% { transform: translateY(-10px); }
 }
