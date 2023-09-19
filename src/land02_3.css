@@ -1,0 +1,49 @@
+.page02_3h5{
+    color: orangered;
+}
+.land02_3{
+    padding-bottom: 50px;
+}
+.page02_3h1{
+    font-family: 'Lora', serif;
+   font-family: 'Merriweather', serif;
+    font-family: 'Noto Serif', serif;
+    font-size: 55px;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 40px;
+}
+.limg{
+    margin-left: 140px;
+    padding: 10px;
+    width: 100px;
+}
+.page02_3card{
+    padding-top: 40px;
+    border: none;
+}
+.page02_3card h5{
+    padding: 10px;
+}
+@media screen and (max-width: 992px) {
+    .page02_3h1{
+        
+        font-size: 35px;
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-top: 10px;
+    }
+    .page02_3row{
+        padding-left: 80px;
+        padding-right: 80px;
+    }
+    .page02_3card{
+        padding-top: 0px;
+        border: none;
+    }
+    .limg{
+        margin-left: 110px;
+        
+        width: 100px;
+    }
+}
