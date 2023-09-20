@@ -1,0 +1,39 @@
+.land04_2{
+    padding-top: 50px;
+    padding-bottom: 40px;
+    text-align: right;
+    padding-left: 15px;
+    padding-right: 15px;
+
+}
+.pgbg{
+    height: 750px;
+    background-image: url("./images/dashboard-1-2048x1228.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.pgbg img{
+    width: 350px;
+    position: relative;
+    right: -25px;
+    top: 200px;
+}
+@media screen and (max-width: 992px) {
+    .land04_2{
+        padding-left: 50px;
+        padding-right: 50px;
+    
+    }
+    .pgbg{
+        height: 250px;
+        width:auto;
+        background-image: url("./images/dashboard-1-2048x1228.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+    } 
+    .pgbg img{
+        width: 120px;
+        position:static;
+        margin-top: 70px;
+    }
+}
