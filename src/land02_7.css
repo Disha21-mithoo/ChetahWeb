@@ -1,0 +1,100 @@
+.land02_7 h5{
+    color: orangered;
+}
+.land02_7 h6{
+    font-size: 22px;
+    
+    margin-top: 20px;
+    padding-right: 80px;
+}
+.land02_7 .card{
+padding-left: 40px;
+margin: 20px;
+margin-top: 0px;
+background-color: rgb(31, 30, 30);
+color: white;
+}
+.land02_7{
+    color: white;
+    background-color: rgb(31, 30, 30);
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.dd{
+    border-left: 1px solid rgb(59, 58, 58);
+}
+.land02_7 h1{
+    margin-top: 30px;
+    
+    font-family: 'Lora', serif;
+    font-family: 'Merriweather', serif;
+     font-family: 'Noto Serif', serif;
+     font-size: 55px;
+    
+}
+.page02_7Row1{
+    margin-top: 40px;
+    text-align: left;
+    padding-top: 40px;
+}
+.userimg{
+    width: 250px;
+}
+.row22{
+    margin-top: 150px;
+}
+.tm1{
+    font-size: 40px;
+    font-weight: 400;
+}
+.tm2{
+    font-size: 22px;
+    font-weight: 500;
+}
+.tm3{
+    font-size: 17px;
+    font-weight: 400;
+    color: grey;
+}
+@media screen and (max-width: 992px) {
+    .page02_7Row1{
+        
+        text-align: center;
+    } 
+    .row22{
+        margin-top: 20px;
+        
+    }
+    .land02_7 h1{
+        font-size: 35px;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .userimg{
+        width: 190px;
+    }
+    .land02_7 h6{
+        font-size: 19px;
+        margin-left: 60px;
+        
+    }
+    .land02_7 .card{
+        padding-left: 0px;
+        
+        margin: 0px;
+        margin-top: 30px;
+        }
+        .tm1{
+            font-size: 35px;
+            font-weight: 400;
+        }
+        .tm2{
+            font-size: 18px;
+            font-weight: 500;
+        }
+        .tm3{
+            font-size: 15px;
+            font-weight: 400;
+            color: grey;
+        }
+}

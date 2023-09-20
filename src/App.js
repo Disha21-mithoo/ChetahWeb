@@ -16,6 +16,9 @@ import Land02_2 from './land02_2';
 import Land02_3 from './land02_3';
 import Land02_4 from './land02_4';
 import Land02_5 from './land02_5';
+import Land02_6 from './land02_6';
+import Land02_7 from "./land02_7";
+import Land02_8 from './land02_8';
 import Land03_1 from './land03_1';
 import Land03_2 from './land03_2';
 import Land03_3 from './land03_3';
@@ -64,6 +67,9 @@ function App() {
        <Land02_3></Land02_3> 
        <Land02_4></Land02_4>
        <Land02_5></Land02_5>
+       <Land02_6></Land02_6>
+       <Land02_7></Land02_7>
+       <Land02_8></Land02_8>
        
 
 
