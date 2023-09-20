@@ -1,0 +1,81 @@
+.land04_4 {
+    margin-top: 50px;
+    text-align: left;
+    padding: 30px;
+}
+.land04_4 .card{
+    margin-bottom: 10px;
+    padding: 45px;
+}
+.card1{
+    background-color: orangered;
+    color: white;
+}
+.card2{
+    background-color: rgb(44, 42, 42);
+    color: white;
+}
+.land04_4 a{
+    text-decoration: none;
+    color: white;
+}
+.land04_4 a:hover{
+    color: yellow;
+}
+.card1 h1{
+    
+    font-size: 50px;
+    font-family: 'Lora', serif;
+font-family: 'Merriweather', serif;
+font-family: 'Noto Serif', serif;
+font-family: 'Playfair Display', serif;
+}
+.card2 h1{
+    font-size: 50px;
+    font-family: 'Lora', serif;
+font-family: 'Merriweather', serif;
+font-family: 'Noto Serif', serif;
+font-family: 'Playfair Display', serif;
+}
+.land04_4 h6{
+    margin-top: 30px;
+    font-size: 22px;
+}
+.land04_4 h5{
+    margin-top: 80px;
+}
+.land04_4 img{
+    width: 300px;
+    position: absolute;
+    bottom: 0px;
+    right: 20px;
+}
+@media screen and (max-width: 992px) {
+    .card1 h1{
+    
+        font-size: 35px;
+        font-family: 'Lora', serif;
+    font-family: 'Merriweather', serif;
+    font-family: 'Noto Serif', serif;
+    font-family: 'Playfair Display', serif;
+    }
+    .card2 h1{
+        font-size: 35px;
+        font-family: 'Lora', serif;
+    font-family: 'Merriweather', serif;
+    font-family: 'Noto Serif', serif;
+    font-family: 'Playfair Display', serif;
+    }
+    .land04_4 h6{
+        margin-top: 30px;
+        font-size: 18px;
+    }
+    .land04_4 {
+        margin-top: 10px;
+        padding: 50px;
+    }
+    .land04_4 .card{
+        margin-bottom: 10px;
+        padding: 45px;
+    }
+}

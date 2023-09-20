@@ -18,6 +18,16 @@
     right: -25px;
     top: 200px;
 }
+.page04card{
+    margin-top: 60px;
+    text-align: center;
+    border: none;
+}
+.limg2{
+    margin-left: 170px;
+    
+    width: 60px;
+}
 @media screen and (max-width: 992px) {
     .land04_2{
         padding-left: 50px;
@@ -35,5 +45,10 @@
         width: 120px;
         position:static;
         margin-top: 70px;
+    }
+    .limg2{
+        margin-left: 80px;
+        
+        width: 60px;
     }
 }
