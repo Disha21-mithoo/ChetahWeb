@@ -22,6 +22,7 @@
   overflow-x: hidden;
   
  }
+ 
  .Page5Card1bg{
   text-align: right;
   margin-left: 20px;
@@ -49,4 +50,7 @@
   font-weight: 400;
   font-style: normal;
   font-size: 21px;
+ }
+ .dropend{
+  padding: 20px;
  }

@@ -21,3 +21,26 @@ font-family: 'Merriweather', serif;
 font-family: 'Noto Serif', serif;
 font-family: 'Playfair Display', serif;
 }
+@media screen and (max-width: 992px) {
+    .land04_5 h1{
+        font-size: 35px;
+       
+    }
+    .land04_5 p{
+        margin-top: 10px;
+        margin-left: 0px;
+        width: auto;
+        margin-bottom: 20px;
+        font-size: 18px;
+        
+    } 
+    .land04_5{
+        padding-top: 10px;
+        padding-bottom: 0px;
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+    .land04_5 img{
+        width: 250px;
+    }
+}
