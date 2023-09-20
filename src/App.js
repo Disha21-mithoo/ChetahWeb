@@ -35,6 +35,7 @@ import Land04_1 from './land04_1';
 import Land04_2 from './land04_2';
 import Land04_3 from './land04_3';
 import Land04_4 from './land04_4';
+import Land04_5 from './land04_5';
 import Land1 from "./images/land01.png";
 import Land2 from "./images/land02.png";
 import Land3 from "./images/land03.png";
@@ -80,6 +81,7 @@ function App() {
        <Land04_2></Land04_2>
        <Land04_3></Land04_3>
        <Land04_4></Land04_4>
+       <Land04_5></Land04_5>
        
 
 
