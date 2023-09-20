@@ -61,7 +61,7 @@ function App() {
        <Land01_10></Land01_10>  */} 
        <Land02_1></Land02_1>
        <Land02_2></Land02_2>
-       <Land02_3></Land02_3>
+       <Land02_3></Land02_3> 
        <Land02_4></Land02_4>
        <Land02_5></Land02_5>
        
