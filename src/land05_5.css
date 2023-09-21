@@ -1,0 +1,18 @@
+.land05_5{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    padding-top: 80px;
+    padding-bottom: 60px;
+}
+.trophy{
+    font-size: 48px;
+    
+}
+
+@media screen and (max-width: 992px) {
+    .land05_5{
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+}
