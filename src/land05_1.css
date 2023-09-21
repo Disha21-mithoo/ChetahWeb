@@ -1,0 +1,135 @@
+.land05_1{
+    text-align: center;
+    background-color: rgb(29, 28, 28);
+    color: white;
+}
+.navbtn05{
+    color: white;
+    border: 2.5px solid white;
+    margin: 10px;
+    border-radius: 50px 50px 50px 50px;
+    padding: 10px;
+    font-family: Sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    
+  }
+  .row05btn{
+    margin: 10px;
+    margin-left: 0px;
+    border-radius: 12px 12px 12px 12px;
+    background-color: rgb(72, 72, 196);
+    color: white;
+    padding: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+  .navbar05{
+    padding: 10px;
+    
+  }
+  .Page05_1Row{
+    text-align: left;
+    margin-top: 60px;
+    padding: 20px;
+    padding-top: 30px;
+    padding-bottom: 60px;
+
+  }
+  .Page05_1Row h1{
+    font-family: 'Lora', serif;
+    font-family: 'Merriweather', serif;
+     font-family: 'Noto Serif', serif;
+     font-size: 65px;
+    
+  }
+  .Page05_1Row p{
+    
+     
+     font-size: 22px;
+     font-weight: 350;
+     padding-bottom: 40px;
+    
+  }
+  .Fpage05btn{
+    
+    font-size: 14px;
+      
+      font-weight: 600;
+      border: 2px solid black;;
+      color: black;
+      background-color: white;
+      box-shadow: 6px 6px 0px 0px #E6FF7F;
+      
+      border-radius: 8px 8px 8px 8px;
+      padding: 20px 20px 20px 20px;
+      
+      
+  }
+ 
+  .navMainul{
+    margin-left: 0px;
+    padding-left: 60px;
+    padding-right: 60px;
+    
+  }
+  .navMainli{
+    margin:10px;
+    margin-left: 25px;
+    
+  }
+  .ssdimg{
+    width: 500px;
+    margin-left: 60px;
+  }
+  
+  
+  @media screen and (max-width: 992px) {
+    .navMainli{
+        
+        margin-left: 0px;
+        
+      }
+      .Page05_1Row{
+        text-align: left;
+        margin-top: 20px;
+        padding-right: 50px;
+        padding-left: 50px;
+        padding-top: 30px;
+    
+      }
+      .ssdimg{
+        width: 300px;
+        margin-left: 60px;
+        margin-top: 40px;
+      }
+      .Page05_1Row h1{
+        
+         font-size: 35px;
+        
+      }
+      .Page05_1Row p{
+        
+         
+         font-size: 17px;
+         font-weight: 350;
+         padding-bottom: 40px;
+        
+      }
+      .Fpage05btn{
+    
+        font-size: 14px;
+          
+          font-weight: 400;
+          border: 2px solid black;;
+          color: black;
+          background-color: white;
+          box-shadow: 6px 6px 0px 0px #E6FF7F;
+          
+          border-radius: 8px 8px 8px 8px;
+          padding: 10px 10px 10px 10px;
+          
+          
+          
+      }
+  }

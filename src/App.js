@@ -40,6 +40,10 @@ import Land04_7 from './land04_7';
 import Land04_8 from './land04_8';
 import Land04_9 from './land04_9';
 import Land04_10 from './land04_10';
+import Land05_1 from './land05_1';
+import Land05_2 from "./land05_2";
+import Land05_3 from "./land05_3";
+import Land05_4 from "./land05_4";
 import Land1 from "./images/land01.png";
 import Land2 from "./images/land02.png";
 import Land3 from "./images/land03.png";
@@ -51,7 +55,7 @@ import Land6 from "./images/land06.png";
 function App() {
   return (
     <div className="App">
-    <Land03_1></Land03_1> 
+       {/* <Land03_1></Land03_1> 
        <Land03_2></Land03_2>
        <Land03_3></Land03_3> 
        <Land03_4></Land03_4> 
@@ -89,7 +93,12 @@ function App() {
        <Land04_7></Land04_7>
        <Land04_8></Land04_8>
        <Land04_9></Land04_9>
-       <Land04_10></Land04_10> 
+       <Land04_10></Land04_10> */}
+       <Land05_1></Land05_1>
+       <Land05_2></Land05_2>
+       <Land05_3></Land05_3>
+       <Land05_4></Land05_4>
+       
        
 
 
@@ -100,4 +109,4 @@ function App() {
   );
 }
 
-export default App;
+export default App; 
