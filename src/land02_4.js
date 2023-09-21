@@ -8,6 +8,7 @@ import gg1 from "./images/card-6-1.png";
 const Land02_4 = () => {
     return(
         <div className='land02_4'>
+        <section>
         <div className='row page02_4Row1'>
         <div class="col-sm-6 mb-3 mb-sm-0 page02_4col1">
             <h5 className='page02_4h5'>The best UI Kit in town</h5>
@@ -21,11 +22,12 @@ const Land02_4 = () => {
             </div><hr></hr>
             <a href='#'><h5>Get Started!</h5></a>
         </div>
+        
         <div className='col-6 page02_4col2'>
             <img className="col2_img1" src={gg}></img>
              <img className='coimg2 vert-move1' src={gg1}></img> 
         </div>
-        </div>
+        </div></section>
         </div>
     );
 }

@@ -1,6 +1,7 @@
 .page02_5col2{
     text-align: right;
     padding: 30px;
+    padding-bottom: -20px;
 }
 .col2_img12{
     width: 460px;
@@ -23,10 +24,11 @@
     margin-top: 80px;
 }
 .coimg22{
-   position: absolute;
+   position: relative;
     width: 350px;
-    top: 3150px;
-    right: 200px;
+    bottom: 200px;
+    right: 130px;
+
 }
 .page02_5col1{
     text-align: left;
@@ -69,7 +71,7 @@
 @media screen and (max-width: 992px) {
     .page02_5col2{
         text-align: right;
-        padding-bottom: 20px;
+        padding-bottom: 0px;
         padding-left: 80px;
         
     }
@@ -79,10 +81,9 @@
     }
 
     .coimg22{
-       position: absolute;
+       position: relative;
         width: 290px;
-        left: 100px;
-        top: 4350px;
+        left: 30px;
         
     }
     .page02_5col1{
