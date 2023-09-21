@@ -1,0 +1,47 @@
+.land04_10{
+    padding: 20px;
+    text-align: left;
+}
+.land04_10 a{
+    text-decoration: none;
+    color: black;
+}
+.fp{
+    color: rgb(81, 79, 79);
+    font-size: 20px;
+    width: 200px;
+    margin-bottom: 30px;
+}
+@media screen and (max-width: 992px) {
+    .fp{
+        width: auto;
+        font-size: 18px;
+    }
+    .fhp{
+        color: rgb(81, 79, 79);
+        
+    }
+    .fhs{
+        font-size: 12px;
+    }
+    .land04_10{
+        padding: 20px;
+        padding-left: 20px;
+        padding-right: 20px;
+
+    }
+}
+.fhp{
+    color: rgb(81, 79, 79);
+    font-size: 20px;
+}
+.fhs{
+    font-size: 18px;
+}
+.fb{
+    
+    font-size: 48px;
+    color: black;
+    margin: 15px;
+
+}

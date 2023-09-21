@@ -56,7 +56,7 @@
     font-size: 21px;
    }
 .dropend{
-    padding: 20px;
+    padding: 0px;
    }
    @media screen and (max-width: 992px) {
     .dropend{

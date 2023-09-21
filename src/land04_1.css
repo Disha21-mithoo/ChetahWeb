@@ -25,10 +25,15 @@
     border: 1px solid black;
     font-size: 18px;
     padding: 10px;
+    position: relative;
+    bottom: 60px;
   }
   .bt1{
     text-align: right;
 
+  }
+  .mmt{
+    margin-top: -50px;
   }
   .pp{
     margin-top: -10px;

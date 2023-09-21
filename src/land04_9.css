@@ -1,0 +1,66 @@
+.land04_9{
+    background-color: whitesmoke;
+    padding-top: 80px;
+    padding-bottom: 160px;
+}
+.land04_9 h5{
+    color: blue;
+}
+.land04_9 h4{
+    color: rgb(44, 43, 43);
+    margin-top: 20px;
+    font-size: 20px;
+}
+.land04_9 h1{
+    font-family: 'Lora', serif;
+    font-family: 'Merriweather', serif;
+     font-family: 'Noto Serif', serif;
+     font-size: 50px;
+     width: 700px;
+     margin-left: 290px;
+}
+.page04_9Row1{
+    margin-top: 60px;
+}
+.Fpage049btn{
+    
+    font-size: 18px;
+    
+    font-weight: 600;
+    
+    color: #fff;
+    background-color: black;
+    box-shadow: 6px 6px 0px 0px #E6FF7F;
+    
+    border-radius: 8px 8px 8px 8px;
+    padding: 20px;
+       
+}
+.hhh{
+    margin-top: 80px;
+}
+@media screen and (max-width: 992px) {
+    .land04_9 h1{
+    
+         font-size: 35px;
+         width: auto;
+         margin-left: 0px;
+         padding-left: 40px;
+         padding-right: 40px;
+    }
+    .land04_9 h4{
+        font-size: 15px;
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+    .page04_9Row1{
+        margin-top: 30px;
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+    .land04_9{
+        
+        padding-top: 30px;
+        padding-bottom: 70px;
+    }
+}

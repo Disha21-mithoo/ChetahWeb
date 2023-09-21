@@ -80,7 +80,7 @@ const Land04_1 = () => {
        </div>
        <div className='col-1'></div>
       </div>
-      <div className='row'>
+      <div className='row mmt'>
         <div className='col-6 p1w'>No credit card required</div>
         <div className='col-6 p2w'>Cancle anytime</div>
       </div>
