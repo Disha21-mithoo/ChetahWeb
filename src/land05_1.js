@@ -1,8 +1,13 @@
 import React, { Component } from 'react';
 import "./land05_1.css";
-import logoimg from "./images/oLogo.svg";
 import ssd from "./images/ssd.png";
 import lg from "./images/whitelogo.svg";
+import l1 from "./images/logo-placeholder-1.png";
+import l2 from "./images/logo-placeholder-2.png";
+import l3 from "./images/logo-placeholder-3.png";
+import l4 from "./images/logo-placeholder-6.png";
+import l5 from "./images/logo-placeholder-5.png";
+
 
 
 
@@ -85,7 +90,18 @@ const Land05_1 = () => {
             </div>
         </div>
       </div>
-
+      <div className='page05_1end'>
+        <div className='row'>
+            <div className='col'><img src={l1}></img></div>
+            <div className='col'><img src={l2}></img></div>
+            <div className='col'><img src={l3}></img></div>
+            <div className='col'><img src={l4}></img></div>
+            <div className='col'><img src={l5}></img></div>
+            <div className='col'><img src={l1}></img></div>
+            <div className='col'><img src={l2}></img></div>
+            
+        </div>
+      </div>
 
 
         </div>

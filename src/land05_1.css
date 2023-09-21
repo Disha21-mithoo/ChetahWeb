@@ -82,6 +82,14 @@
     width: 500px;
     margin-left: 60px;
   }
+  .page05_1end{
+    background-color: orangered;
+    padding-top: 25px;
+    padding-bottom: 25px;
+  }
+  .page05_1end img{
+    width: 120px;
+  }
   
   
   @media screen and (max-width: 992px) {
@@ -127,9 +135,15 @@
           box-shadow: 6px 6px 0px 0px #E6FF7F;
           
           border-radius: 8px 8px 8px 8px;
-          padding: 10px 10px 10px 10px;
+          padding: 10px 10px 10px 10px;  
           
-          
-          
+      }
+      .page05_1end{
+      
+        padding-top: 10px;
+        padding-bottom: 10px;
+      }
+      .page05_1end img{
+        width: 30px;
       }
   }
