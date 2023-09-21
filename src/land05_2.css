@@ -1,6 +1,7 @@
 .land05_2{
     margin-top: 40px;
     text-align: center;
+    padding-bottom: 50px;
 }
 .land05_2 h1{
     font-family: 'Lora', serif;
@@ -17,6 +18,7 @@
     .land05_2{
         padding-left: 50px;
         padding-right: 50px;
+        padding-bottom: 20px;
     }
     .land05_2 h1{
     
@@ -27,9 +29,60 @@
         padding-left: 0px;
         padding-right: 0px;
     }
+    .tab-content{
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+    .hh{
+        margin-top: 20px;
+        height: 200px;
+        width: 350px;
+        
+    }
+    .col2-05{
+        padding: 0px;
+        text-align: left;
+        margin-left: -100px;
+    }
+    .col2-05 p{
+        padding: 0px;
+        font-size: 16px;
+    }
+    .col2-05 .card{
+        
+        width: 400px;
+        padding: 20px;
+        margin-top: 10px;
+        
+        border: none;
+    }
 }
-  
-
+.col2-05{
+    padding: 0px;
+    text-align: left;
+}
+.col2-05 p{
+    padding: 0px;
+    font-size: 20px;
+}
+.col2-05 .card{
+    padding: 20px;
+    margin-top: 20px;
+    margin-left: 90px;
+    border: none;
+}
+.hhbg{
+    background-image: url("./images/content-bg1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: -40px;
+    padding-left: 20px;
+}
+.hh{
+    margin-top: 20px;
+    height: 440px;
+    
+}
 #exTab2 {
     margin-top: 60px;
     text-align: center;
