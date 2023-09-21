@@ -1,0 +1,105 @@
+.land05_4{
+    padding: 15px;
+    text-align: left;
+    padding-bottom: 30px;
+}
+.colbg{
+    background-image: url("./images/img11-1015x1024.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 530px;
+    width: 90%;
+}
+.colbg img{
+    margin-top: 220px;
+    margin-left: 320px;
+}
+.land05_4 h5{
+    color: blue;
+}
+.land05_4 h1{
+    margin-top: 30px;
+    font-family: 'Lora', serif;
+    font-family: 'Merriweather', serif;
+     font-family: 'Noto Serif', serif;
+     font-size: 55px;
+}
+.land05_4 p{
+    margin-top: 20px;
+    font-size: 20px;
+    width: 80%;
+    margin-bottom: 70px;
+}
+.ff{
+    margin-top: 50px;
+    padding-left: 50px;
+}
+
+.page053btn{
+    
+    font-size: 14px;
+      
+      font-weight: 600;
+      border: 2px solid black;;
+      color: white;
+      background-color: black;
+      box-shadow: 6px 6px 0px 0px #E6FF7F;
+      
+      border-radius: 8px 8px 8px 8px;
+      padding: 20px 20px 20px 20px;
+      
+      
+  }
+ 
+
+@media screen and (max-width: 992px) {
+    .land05_4{
+        padding: 15px;
+        padding-left: 50px;
+        padding-right: 50px;
+        padding-bottom: 20px;
+    }
+    .colbg{
+        background-image: url("./images/img11-1015x1024.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 400px;
+        width: 100%;
+    }
+    .colbg img{
+        margin-top: 180px;
+        margin-left: 200px;
+        width: 180px;
+    }
+    
+    .land05_4 h1{
+        margin-top: 5px;
+        
+         font-size: 35px;
+    }
+    .land05_4 p{
+        margin-top: 10px;
+        font-size: 17px;
+        width: 100%;
+        margin-bottom: 35px;
+    }
+    .ff{
+        margin-top: 20px;
+        padding-left: 40px;
+    }
+    .page053btn{
+    
+        font-size: 12px;
+          
+          font-weight: 600;
+          border: 2px solid black;;
+          color: white;
+          background-color: black;
+          box-shadow: 6px 6px 0px 0px #E6FF7F;
+          
+          border-radius: 8px 8px 8px 8px;
+          padding: 10px 10px 10px 10px;
+          
+          
+      }
+}

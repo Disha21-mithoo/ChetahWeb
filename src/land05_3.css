@@ -1,40 +1,38 @@
 
-.land01_7{
+.land05_3{
     padding-top: 30px;
       padding-bottom: 60px;
+      background-color: whitesmoke;
   }
-  .Page01_7Card1,.Page01_7Card2{
+  .Page05_3Card1,.Page05_3Card2{
       text-align: left;
       border: none;
       margin-top: 40px;
       padding-bottom: 30px;
+      background-color: whitesmoke;
     }
-    .Page01_7Card2bg{
+    .Page05_3Card2bg{
         
         margin-left: 120px;
         border-radius: 10px 10px 10px 10px;
-        height: 490px;
+        height: 430px;
         width: 75%;
-        background-image: url("./images/content-bg1.png");
+        background-image: url("./images/img9.png");
         background-size: cover;
         background-repeat: no-repeat;
     }
-    .cardbg01-img1{
-      height: 370px;
-      margin-top: 50px;
-      margin-left: 50px;
-    }
-    .Page01_7text1{
-      color: orangered;
+    
+    .Page05_3text1{
+      color: blue;
       margin-left: 20px;
       font-size: 24px;
      }
-     .iconimg01{
+     .iconimg015{
       width: 20px;
       height: 20px;
       margin: 5px;
      }
-     .Page01_7h1{
+     .Page05_3h1{
       margin: 5px;
       margin-top: 5px;
       margin-left:20px;
@@ -44,7 +42,7 @@
       
       
      }
-     .Page01_7p{
+     .Page05_3p{
       text-align: left;
       margin-top: 20px;
       margin-left: 20px;
@@ -55,24 +53,73 @@
       font-size: 21px;
      }
      
-     .cardbg01-img71{
+     .cardbg01-img51{
       height: 180px;
       width: 320px;
-      margin-top:20px;
+      margin-top:250px;
+      margin-right: 40px;
      }
-     .cardbg01-img72{
+     .cardbg01-img52{
       height: 90px;
-      margin-top: 100px;
+      margin-top: 300px;
       width: 400px;
      }
-     .Page01_7Card2bg{
+     .Page05_3Card2bg{
       text-align: center;
      }
      .tickmrk01_6{
       height: 35px;
       width: 35px;
      }
-     .page01_7Row2{
-      margin-top: 200px ;
+     .page05_3Row2{
+      margin-top: 150px ;
       margin-left: 15px;
+     }
+     @media screen and (max-width: 992px) {
+      .land05_3{
+        padding-left: 50px;
+        padding-right: 50px;
+        padding-top: 15px;
+        padding-bottom: 20px;
+      }
+      .Page05_3h1{
+        margin: 5px;
+        margin-top: 5px;
+        margin-left:20px;
+        text-align: left;
+        font-family: sans-serif;
+        font-size: 35px;
+       }
+       .Page05_3text1{
+      
+        font-size: 18px;
+       }
+       .page05_3Row2{
+        margin-top: 40px ;
+        margin-left: 15px;
+       }
+       .tickmrk01_6{
+        height: 25px;
+        width: 25px;
+       }
+      .xx .col-10{
+        width: 300px;
+      }
+      .cardbg01-img51{
+        height: 140px;
+        width: 250px;
+        margin-top:150px;
+        margin-right: 20px;
+       }
+       .Page05_3Card2bg{
+        
+        margin-left: 50px;
+        border-radius: 10px 10px 10px 10px;
+        height: 340px;
+        width: 75%;
+        background-image: url("./images/img9.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
      }
