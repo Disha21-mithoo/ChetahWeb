@@ -8,6 +8,11 @@
 .trophy{
     font-size: 48px;
     
+    
+}
+.land05_5 .checked{
+    color: white;
+    font-size: 20px;
 }
 
 @media screen and (max-width: 992px) {

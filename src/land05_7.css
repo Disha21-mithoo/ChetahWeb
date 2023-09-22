@@ -1,0 +1,61 @@
+.land05_7{
+    padding-top: 50px;
+    text-align: center;
+    background-color: whitesmoke;
+    padding-bottom: 50px;
+}
+.land05_7 h5{
+    color: blue;
+}
+.land05_7 h1{
+    margin-top: 20px;
+    font-family: 'Lora', serif;
+    font-family: 'Merriweather', serif;
+     font-family: 'Noto Serif', serif;
+     font-size: 55px;
+}
+.land05_7 .card{
+    padding: 30px;
+    text-align: left;
+    background-color: whitesmoke;
+    border: none;
+}
+.land05_7 a{
+    text-decoration: none;
+}
+.land05_7 .card img{
+    border-radius: 12px 12px 12px 12px;
+}
+.land05_7 .card img:hover{
+    scale: 1.1;
+}
+.land05_7 .card h4{
+    margin-top: 25px;
+}
+.land05_7 .card h4:hover{
+    color: orangered;
+}
+.land05_7 .card h6{
+    margin-top: 5px;
+    color: orangered;
+}
+
+@media screen and (max-width: 992px) {
+    .land05_7{
+        padding-left: 45px;
+        padding-right: 45px;
+    }
+    .land05_7 h5{
+        color: blue;
+        font-size: 20px;
+    }
+    .land05_7 h1{
+        margin-top: 10px;
+        
+         font-size: 35px;
+    }
+    .land05_7 .card{
+        padding: 40px;
+        padding-top: 20px;
+    }
+}

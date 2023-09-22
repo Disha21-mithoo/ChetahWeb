@@ -1,6 +1,7 @@
 .land05_6{
 padding: 15px;
 margin-top: 15px;
+padding-bottom: 80px;
 }
 .land05_6 h1{
     margin-top: 30px;
@@ -9,10 +10,45 @@ margin-top: 15px;
      font-family: 'Noto Serif', serif;
      font-size: 55px;
 }
+.land05_6 img{
+    height: 250px;
+}
 .land05_6 h5{
     color: blue;
 }
+.land05_6 .checked{
+    color: orangered;
+}
+.land05_6 .card{
+    padding: 5px;
+    
+    border: none;
+}
+.land05_6Row{
+    margin-top: 50px;
+}
+.land05_6 p{
+margin-top: 40px;
+text-align: left;
 
+font-size: 18px;
+font-weight: 450;
+}
+.land05_6 .rating{
+margin-top: 20px;
+text-align: left;
+}
+.land05_6 h6{
+    text-align: left;
+    margin-top: 20px;
+
+}
+.land05_6 h8{
+    margin-left: 12px;
+    color: rgb(70, 69, 69);
+    font-weight: 250;
+    font-size: 14px;
+}
 @media screen and (max-width: 992px) {
     .land05_6 h1{
         margin-top: 30px;
@@ -25,5 +61,33 @@ margin-top: 15px;
         padding-right: 50px;
         padding-left: 50px;
         
+        }
+        .land05_6Row{
+            margin-top: 20px;
+        }
+        .land05_6 p{
+        margin-top: 10px;
+        text-align: left;
+        padding-left: 0px;
+        font-size: 15px;
+        font-weight: 450;
+        }
+        .land05_6 .rating{
+        margin-top: 10px;
+        text-align: left;
+        }
+        .land05_6 h6{
+            text-align: left;
+            margin-top: 10px;
+        
+        }
+        .land05_6 h8{
+            margin-left: 12px;
+            color: rgb(70, 69, 69);
+            font-weight: 250;
+            font-size: 14px;
+        }
+        .land05_6 img{
+            height: 200px;
         }
 }

@@ -6,7 +6,7 @@ import logoimg from "./images/oLogo.svg";
 
 const Land05_9 = () => {
     return(
-        <div className='land04_10'>
+        <div className='land05_9'>
             <div className='row'>
                 <div className='col-5'>
                     <img src={logoimg}></img>

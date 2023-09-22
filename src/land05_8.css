@@ -1,0 +1,120 @@
+.land05_8{
+    background-color: whitesmoke;
+    padding: 15px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-bottom: 70px;
+}
+.land05_8 .contbg1{
+    border-radius: 12px 12px 12px 12px;
+    height: 480px;
+    background-color: rgb(30, 29, 29);
+    text-align: left;
+    color: white;
+    padding-left: 60px;
+    padding-top: 0px;
+    
+     
+}
+.land05_8 .btnn{
+    margin-top: 70px;
+    
+    
+}
+.land05_8 .btnn img{
+    margin-top: -40px;
+    margin-right: 780px;
+}
+.land05_8 .Fpage05btn{
+    font-size: 14px;
+      
+    font-weight: 600;
+    border: 2px solid black;;
+    color: black;
+    background-color: white;
+    box-shadow: 6px 6px 0px 0px #E6FF7F;
+    
+    border-radius: 8px 8px 8px 8px;
+    padding: 20px 20px 20px 20px;
+}
+.land05_8 img{
+    position: absolute;
+    right: 15px;
+}
+.land05_8 h1,h2{
+    
+    font-family: 'Lora', serif;
+    font-family: 'Merriweather', serif;
+    font-family: 'Noto Serif', serif; 
+    font-size: 52px;
+    font-weight: 150;
+}
+.land05_8 .mm{
+    padding-top: 80px;
+}
+
+.land05_8 h2{
+ color: rgb(170, 170, 170);
+}
+.land05_8 .mmt{
+    background-color: rgb(56, 57, 57);
+    border-radius: 30px 30px 30px 30px;
+    padding: 10px;
+    padding-left: 10px;
+    padding-right: -40px;
+    margin: 10px;
+    margin-top: 80px;
+}
+.land05_8 .mmt .fa-check-circle-o{
+    font-size: 20px;
+    font-weight: 100;
+    padding-right: 10px;
+}
+
+@media screen and (max-width: 992px) {
+    .land05_8{
+        padding: 0px;
+        padding-top: 0px;
+        padding-bottom: 50px;
+        
+    }
+    .land05_8 .contbg1{
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-top: 20px;
+        height: 500px;
+    }
+    .land05_8 h1,h2{
+        font-family: 'Lora', serif;
+        font-family: 'Merriweather', serif;
+        font-family: 'Noto Serif', serif; 
+        font-size: 30px;
+        font-weight: 150;
+    }
+    .land05_8 h6{
+        font-size: 12px;
+    }
+    .land05_8 .mm{
+        padding-top: 30px;
+    }
+    .land05_8 img{
+        position: absolute;
+        right: 0px;
+        opacity: 0.4;
+        
+    }
+    .land05_8 .btnn img{
+        z-index: -2;
+    }
+    .land05_8 .mmt{
+        
+        margin-top: 0px;
+        
+    }
+    .land05_8 .row{
+        padding-top: 50px;
+        padding-left: 80px;
+        padding-right: 130px;
+        padding-bottom: 20px;
+    }
+}

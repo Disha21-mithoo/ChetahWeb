@@ -1,8 +1,9 @@
-.land04_10{
+.land05_9{
+    padding-top: 80px;
     padding: 20px;
     text-align: left;
 }
-.land04_10 a{
+.land05_9 a{
     text-decoration: none;
     color: black;
 }
@@ -24,10 +25,11 @@
     .fhs{
         font-size: 12px;
     }
-    .land04_10{
+    .land05_9{
         padding: 20px;
         padding-left: 20px;
         padding-right: 20px;
+        padding-top: 50px;
 
     }
 }
