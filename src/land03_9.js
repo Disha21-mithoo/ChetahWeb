@@ -8,9 +8,6 @@ import logo4 from "./images/4.svg";
 import logo5 from "./images/5.svg";
 
 
-
-
-
 const Land03_9 = () => {
     
 

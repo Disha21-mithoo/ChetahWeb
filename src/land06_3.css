@@ -1,0 +1,115 @@
+
+.land06_3 {
+    background-color: rgb(25, 24, 24);
+    color: white;
+    padding: 50px;
+
+}
+
+.land06_3 .card {
+    margin-top: 80px;
+    text-align: left;
+    padding: 40px;
+    padding-bottom: 0px;
+    padding-right: 0px;
+    
+}
+.land06_3 .pg06_3card1{
+    background-color: rgb(240, 240, 89);
+}
+.land06_3 .card a{
+    text-decoration: none;
+    color: black;
+}
+.land06_3 .card p{
+    width: 350px;
+}
+.land06_3 .pg06_3card2{
+    color: white;
+    background-color: rgb(64, 64, 247);
+}
+.pg06_3card2 a h6{
+    color: white;
+    
+}
+.pg06_3card2 a h6:hover{
+    color: orangered;
+}
+.land06_3 .card a:hover{
+
+    color: orangered;
+}
+.dd1{
+    padding-top: 80px;
+    text-align: right;
+    border: none;
+}
+.land06_3 .dd1 img{
+    width: 450px;
+}
+.dd2{
+    padding-top: 80px;
+    text-align: center;
+    border: none;
+}
+.land06_3 .dd2 img{
+    height: 360px;
+    width: 400px;
+}
+.land06_3 h1{
+    font-family: 'Lora', serif;
+    font-family: 'Merriweather', serif;
+    font-family: 'Noto Serif', serif; 
+    font-size: 52px;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 15px;
+}
+.land06_3 h5{
+    font-family: 'Lora', serif;
+    font-family: 'Merriweather', serif;
+    font-family: 'Noto Serif', serif; 
+    color:  orangered;
+}
+
+@media screen and (max-width: 992px) {
+    .land06_3 {
+        padding-top: 50px;
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+    .land06_3 h1{
+        font-family: 'Lora', serif;
+        font-family: 'Merriweather', serif;
+        font-family: 'Noto Serif', serif; 
+        font-size: 30px;
+        padding-left: 0px;
+        padding-right: 0px;
+       
+    }
+    .land06_3 .card {
+        margin-top: 20px;
+    }
+    .land06_3 .card p{
+        width: 290px;
+    }
+    
+    .dd1{
+        padding-top: 20px;
+        text-align: right;
+        border: none;
+    }
+    .land06_3 .dd1 img{
+        width: 320px;
+    }
+    .dd2{
+        padding-top: 20px;
+        text-align: center;
+        border: none;
+    }
+    .land06_3 .dd2 img{
+        height: 270px;
+        width: 300px;
+    }
+
+}

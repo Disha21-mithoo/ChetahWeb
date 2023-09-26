@@ -1,0 +1,58 @@
+.land06_4{
+    padding: 15px;
+    padding-top: 100px;  
+    background-color: whitesmoke; 
+    padding-bottom: 50px;
+}
+.land06_4 h1{
+    padding-top: 30px;
+    font-family: 'Noto Serif', serif; 
+    font-size: 50px;
+    text-align: left;
+    padding-bottom: 20px;
+}
+.land06_4 .p1{
+    
+    font-family: 'Noto Serif', serif; 
+    font-size: 20px;
+    text-align: left;
+    
+}
+.land06_4 .mms{
+    margin-top: 130px;
+    text-align: left;
+    width: 500px;
+}
+
+
+
+@media screen and (max-width: 992px) {
+    .land06_4{
+        padding-top: 40px;
+        padding-left: 80px;
+    padding-right: 80px;
+    }
+    .land06_4 img{
+        width: 300px;
+    }
+    .land06_4 h1{
+        padding-top: 10px;
+        font-family: 'Noto Serif', serif; 
+        font-size: 30px;
+        text-align: left;
+        padding-bottom: 10px;
+    }
+    .land06_4 .p1{
+        
+        font-family: 'Noto Serif', serif; 
+        font-size: 15px;
+        text-align: left;
+        
+    }
+    .land06_4 .mms{
+        margin-top: 50px;
+        text-align: left;
+        width: auto;
+        margin-bottom: 30px;
+    }
+}

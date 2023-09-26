@@ -1,0 +1,74 @@
+.land06_8 {
+    padding-top: 80px;
+    background-color: rgb(242, 93, 39);
+    color: white;
+    padding-bottom: 80px;
+}
+.land06_8 h1{
+    font-family: 'Lora', serif;
+        font-family: 'Merriweather', serif;
+        font-family: 'Noto Serif', serif; 
+        font-size: 58px;
+        padding-bottom: 20px;
+}
+.land06_8 .r1{
+    position: relative;
+    top: 10px;
+    left: 170px;
+}
+.land06_8 .r2{
+    position: relative;
+    top: 90px;
+    left: 0px;
+}
+.land06_8 .r3{
+    position: relative;
+    top: 230px;
+    left: 0px;
+}
+.land06_8 .r4{
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+.land06_8 .r5{
+    position: relative;
+    top: 180px;
+    left: 0px;
+}
+.land06_8 .Fpage08btn{
+    font-size: 14px;
+      
+    font-weight: 600;
+    border: 2px solid black;;
+    color: white;
+    background-color: black;
+    box-shadow: 6px 6px 0px 0px #E6FF7F;
+    
+    border-radius: 8px 8px 8px 8px;
+    padding: 20px 20px 20px 20px;
+}
+.btnn8{
+    margin-top: 50px;
+}
+
+@media screen and (max-width: 992px) {
+    .land06_8 h5{
+        font-size: 20px;
+
+    }
+    .land06_8{
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .land06_8 img{
+        width: 0px;
+    }
+    .land06_8 h1{
+            
+            font-size: 28px;
+            padding-bottom: 20px;
+    } 
+}

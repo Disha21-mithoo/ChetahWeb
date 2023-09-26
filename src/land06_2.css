@@ -1,0 +1,72 @@
+.land06_2 {
+    text-align: left;
+    padding: 10px;
+    background-color: rgb(25, 24, 24);
+    color: white;
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+.land06_2Row{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.land06_2 h1{
+    font-family: 'Lora', serif;
+    font-family: 'Merriweather', serif;
+    font-family: 'Noto Serif', serif; 
+    font-size: 60px;
+}
+.land06_2 h3{
+    font-family: 'Lora', serif;
+    font-family: 'Merriweather', serif;
+    font-family: 'Noto Serif', serif; 
+    font-size: 34px;
+    padding-right: 80px;
+}
+.land06_2 p{
+    font-size: 20px;
+    padding-right: 40px;
+}
+.g{
+    color: rgb(183, 180, 180);
+    font-size: 8px;
+}
+@media screen and (max-width: 992px) {
+    .land06_2{
+        text-align: left;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 40px;
+    }
+    .land06_2Row{
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .land06_2 h1{
+        
+        font-size: 45px;
+    }
+    .land06_2 p{
+        font-size: 16px;
+        padding-right: 0px;
+    }
+    .land06_2 h3{
+        text-align: center;
+        font-size: 30px;
+        padding-right: 0px;
+    }
+    .g{
+        color: rgb(183, 180, 180);
+        font-size: 5px;
+        margin-left: 40px;
+    }
+    .land06_2 h5{
+        margin-left: 40px;
+        width: 300px;
+    }
+    .pp{
+        margin-top: 0px;
+        margin-left: 70px;
+    }
+}

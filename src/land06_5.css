@@ -1,0 +1,29 @@
+.land06_5{
+    padding: 20px;
+    padding-top: 40px;
+    padding-bottom: 50px;
+    text-align: left;
+}
+.land06_5 .m{
+    margin-top: 130px;
+}
+.land06_5 .cont{
+    width: 370px;
+    
+}
+@media screen and (max-width: 992px) {
+    .land06_5{
+        padding-left: 35px;
+        padding-right: 35px;
+    }
+    .land06_5 img{
+        width: 95%;
+    }
+    .land06_5 .m{
+        margin-top: 20px;
+    }
+    .land06_5 .cont{
+        width: auto;
+        
+    }
+}

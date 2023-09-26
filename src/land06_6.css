@@ -1,0 +1,89 @@
+.land06_6{
+    padding-top: 80px;
+    background-color: whitesmoke;
+    padding-bottom: 50px;
+}
+.land06_6 h5{
+    color: blue;
+}
+.land06_6 h1{
+    font-family: 'Lora', serif;
+    font-family: 'Merriweather', serif;
+    font-family: 'Noto Serif', serif; 
+    font-size: 52px;
+}
+
+.land06_6 .p1{
+    font-size: 18px;
+    padding-left: 350px;
+    padding-right: 350px;
+}
+.tickerimg{
+    width: 280px;
+
+    background-color: white;
+}
+  .ticker, .ticker1 {
+    display: flex;
+  }
+  .ticker__list {
+    display: flex;
+    margin-top: 10px;
+    animation: ticker 20s infinite linear;
+  }
+  .ticker:hover .ticker__list {
+    animation-play-state: paused;
+  }
+  .ticker__item {
+    background-color: white;
+    padding: 0px;
+    margin-right: 20px;
+  }
+  @-moz-keyframes ticker {
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+  @-webkit-keyframes ticker {
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+  @-o-keyframes ticker {
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+  @keyframes ticker {
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+  @-moz-keyframes ticker1 {
+    100% {
+      transform: translateX(100%);
+    }
+  }
+  @-webkit-keyframes ticker1 {
+    100% {
+      transform: translateX(100%);
+    }
+  }
+  @-o-keyframes ticker1 {
+    100% {
+      transform: translateX(100%);
+    }
+  }
+  @keyframes ticker1 {
+    100% {
+      transform: translateX(100%);
+    }
+  }
+  
+@media screen and (max-width: 992px) {
+  .land06_6 .p1{
+    font-size: 18px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+}

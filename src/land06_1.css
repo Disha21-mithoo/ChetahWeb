@@ -1,0 +1,104 @@
+.land06_1{
+    
+    padding-bottom: 40px;
+}
+.page06_1Row{
+    padding: 20px;
+    padding-top: 80px;
+    text-align: left;
+    
+}
+.page06_1Row h1{
+    font-family: 'Lora', serif;
+    font-family: 'Merriweather', serif;
+    font-family: 'Noto Serif', serif; 
+    font-size: 56px;
+    padding-right: 130px;
+}
+.page06_1Row p{
+    font-family: 'Lora', serif;
+    font-family: 'Merriweather', serif;
+    font-family: 'Noto Serif', serif; 
+    font-size: 20px;
+    padding-right: 170px;
+}
+.page06_1Row h6{
+    margin-top: 60px;
+}
+.page06_1row2{
+    margin-top: 50px;
+}
+
+.land06_1 .Fpage06btn{
+    font-size: 14px;
+      
+    font-weight: 600;
+    border: 2px solid black;;
+    color: white;
+    background-color: black;
+    box-shadow: 6px 6px 0px 0px #E6FF7F;
+    
+    border-radius: 8px 8px 8px 8px;
+    padding: 20px 20px 20px 20px;
+}
+.btnn6{
+    margin-top: 50px;
+}
+
+.navbtn06{
+    color: black;
+    border: 2.5px solid black;
+    margin: 10px;
+    border-radius: 50px 50px 50px 50px;
+    padding: 5px;
+    font-family: Sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+  }
+  .navMainul{
+    margin-left: 30px;
+  }
+  .navMainli{
+    margin:5px;
+    margin-left: 15px;
+  }
+
+  @media screen and (max-width: 992px) {
+    .land06_1{
+        padding: 10px;
+    }
+    .page06_1Row{
+        padding-right: 45px;
+        padding-left: 45px;
+        padding-top: 40px;
+        text-align: center;
+        
+    }
+    .page06_1Row h1{
+        padding-top: 20px;
+        font-family: 'Lora', serif;
+        font-family: 'Merriweather', serif;
+        font-family: 'Noto Serif', serif; 
+        font-size: 35px;
+        padding-right: 0px;
+    }
+    .page06_1Row p{
+        font-family: 'Lora', serif;
+        font-family: 'Merriweather', serif;
+        font-family: 'Noto Serif', serif; 
+        font-size: 20px;
+        padding-right: 0px;
+    }
+    .page06_1Row h6{
+        margin-top: 40px;
+    }
+    .page06_1row2{
+        margin-top: 50px;
+    }
+    .btnn6{
+    margin-top: 40px;
+}
+.page06_1Row img{
+    width: 80%;
+}
+  }
