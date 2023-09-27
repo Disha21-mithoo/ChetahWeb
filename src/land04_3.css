@@ -6,10 +6,10 @@
     width: 460px;
 }
 .coimg204{
-   position: absolute;
-    width: 350px;
-    top: 2050px;
-    right: 200px;
+   position: relative;
+   bottom: 280px;
+   right: 200px;
+    
 }
 .page04_3col1{
     text-align: left;
@@ -58,12 +58,11 @@
     }
     
     .coimg204{
-       position: absolute;
-        width: 290px;
-        left: 100px;
-        top: 2600px;
-        
-    }
+        position: relative;
+        bottom: 280px;
+        right: 10px;
+         
+     }
     .page02_4col1{
         text-align: center;
         padding: 50px;

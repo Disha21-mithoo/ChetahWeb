@@ -51,6 +51,10 @@
    }
   
    @media screen and (max-width: 992px) {
+    .land03_3{
+      padding-left: 30px;
+      padding-right: 30px;
+    }
     .cardbg-1img{
       height: 350px;
       width: 320px;
@@ -59,7 +63,7 @@
       position:static;
     }
     .Page3Card1bg{
-      margin-left: 60px;
+      margin-left: 30px;
     }
     .Page3Card2{
    

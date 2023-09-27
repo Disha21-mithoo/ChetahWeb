@@ -80,8 +80,8 @@ function App() {
        <Land03_8></Land03_8>
        <Land03_9></Land03_9>
        <Land03_10></Land03_10>
-       <Land03_11></Land03_11>
-       <Land01_1></Land01_1>
+       <Land03_11></Land03_11> 
+       {/* <Land01_1></Land01_1>
        <Land01_2></Land01_2>
        <Land01_3></Land01_3>
        <Land01_4></Land01_4>
@@ -90,8 +90,8 @@ function App() {
        <Land01_7></Land01_7>
        <Land01_8></Land01_8>
        <Land01_9></Land01_9>
-       <Land01_10></Land01_10>  
-       <Land02_1></Land02_1>
+       <Land01_10></Land01_10>   */}
+       {/* <Land02_1></Land02_1>
        <Land02_2></Land02_2>
        <Land02_3></Land02_3> 
        <Land02_4></Land02_4>
@@ -99,8 +99,8 @@ function App() {
        <Land02_6></Land02_6>
        <Land02_7></Land02_7>
        <Land02_8></Land02_8>
-       <Land02_9></Land02_9> 
-       <Land04_1></Land04_1>
+       <Land02_9></Land02_9>   */}
+       {/* <Land04_1></Land04_1>
        <Land04_2></Land04_2>
        <Land04_3></Land04_3>
        <Land04_4></Land04_4>
@@ -108,8 +108,8 @@ function App() {
        <Land04_7></Land04_7>
        <Land04_8></Land04_8>
        <Land04_9></Land04_9>
-       <Land04_10></Land04_10> 
-       <Land06_1></Land06_1>
+       <Land04_10></Land04_10>  */}
+       {/* <Land06_1></Land06_1>
        <Land06_2></Land06_2>
        <Land06_3></Land06_3>
        <Land06_4></Land06_4>
@@ -117,8 +117,8 @@ function App() {
        <Land06_6></Land06_6>
        <Land06_7></Land06_7>
        <Land06_8></Land06_8>
-       <Land06_9></Land06_9>
-       <Land05_1></Land05_1>
+       <Land06_9></Land06_9> */}
+       {/* <Land05_1></Land05_1>
        <Land05_2></Land05_2>
        <Land05_3></Land05_3>
        <Land05_4></Land05_4>
@@ -126,7 +126,7 @@ function App() {
        <Land05_6></Land05_6>
        <Land05_7></Land05_7>
        <Land05_8></Land05_8>
-       <Land05_9></Land05_9> 
+       <Land05_9></Land05_9>  */}
        
        
 

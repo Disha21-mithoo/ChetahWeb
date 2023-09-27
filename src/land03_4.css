@@ -56,6 +56,9 @@
     font-style: normal;
     font-size: 21px;
    }
+   .Page4Card1p2{
+    text-align: left;
+   }
   
    @media screen and (max-width: 992px) {
     .cardbg-2img{

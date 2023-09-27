@@ -15,6 +15,9 @@
   margin-right: 60px;
 
 }
+.pp{
+  width: 450px;
+}
 .Page5Card1, .Page5Card2{
    
   height:520px;
@@ -52,5 +55,14 @@
   font-size: 21px;
  }
  .dropend{
-  padding: 20px;
+  padding: 10px;
+ }
+ @media screen and (max-width: 992px) {
+  .pp{
+    width: 300px;
+  }
+  .land03_5{
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
  }
