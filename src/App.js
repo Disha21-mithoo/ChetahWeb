@@ -70,7 +70,7 @@ import Land6 from "./images/land06.png";
 function App() {
   return (
     <div className="App">
-       {/* <Land03_1></Land03_1> 
+       <Land03_1></Land03_1> 
        <Land03_2></Land03_2>
        <Land03_3></Land03_3> 
        <Land03_4></Land03_4> 
@@ -108,7 +108,7 @@ function App() {
        <Land04_7></Land04_7>
        <Land04_8></Land04_8>
        <Land04_9></Land04_9>
-       <Land04_10></Land04_10> */}
+       <Land04_10></Land04_10> 
        <Land06_1></Land06_1>
        <Land06_2></Land06_2>
        <Land06_3></Land06_3>
@@ -118,7 +118,7 @@ function App() {
        <Land06_7></Land06_7>
        <Land06_8></Land06_8>
        <Land06_9></Land06_9>
-    {/*<Land05_1></Land05_1>
+       <Land05_1></Land05_1>
        <Land05_2></Land05_2>
        <Land05_3></Land05_3>
        <Land05_4></Land05_4>
@@ -126,8 +126,7 @@ function App() {
        <Land05_6></Land05_6>
        <Land05_7></Land05_7>
        <Land05_8></Land05_8>
-       <Land05_9></Land05_9>  */}
-       
+       <Land05_9></Land05_9> 
        
        
 
