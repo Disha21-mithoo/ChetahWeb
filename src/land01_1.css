@@ -1,6 +1,11 @@
   .land01_1{
     background-image: url("./images/bg.png");
   }
+  .mmf{
+    width: 1235px;
+    margin-left: -250px;
+    padding: 10px;
+  }
   .navbtn01{
     color: black;
     border: 2.5px solid black;
@@ -135,3 +140,46 @@
     background-color: white;
     border-bottom: 0.5px solid rgb(76, 73, 73);
   }
+  .fgh{
+    border-radius: 30px 30px 30px 30px;
+    width: 200px;
+    padding: 10px;
+  }
+  .fgh2{
+    padding: 10px;
+    padding-top: 40px;
+  }
+  .fgh2p{
+    padding-left: 10px;
+    font-size: 14px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 60px;
+  }
+  @media screen and (max-width: 992px) {
+    .mmd{
+      margin-left: 250px;
+    }
+    .fgh{
+      border-radius: 30px 30px 30px 30px;
+      width: 150px;
+      padding: 0px;
+    }
+    .fgh2{
+      padding: 10px;
+      
+    }
+    .fgh2p{
+      padding-left: 10px;
+      font-size: 14px;
+      margin-top: 0px;
+      margin-bottom: 0px;
+      margin-right: 60px;
+    }
+    .Page1_01Row{
+      margin-top: 30px;
+    
+    }
+  }
+
+ 

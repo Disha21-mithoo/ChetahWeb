@@ -58,18 +58,33 @@ import Land06_6 from './land06_6';
 import Land06_7 from "./land06_7";
 import Land06_8 from './land06_8';
 import Land06_9 from "./land06_9";
-import Land1 from "./images/land01.png";
-import Land2 from "./images/land02.png";
-import Land3 from "./images/land03.png";
-import Land4 from "./images/land04.png";
-import Land5 from "./images/land05.png";
-import Land6 from "./images/land06.png";
+
 
 
 
 function App() {
   return (
     <div className="App">
+         
+       <Land01_1></Land01_1>
+       <Land01_2></Land01_2>
+       <Land01_3></Land01_3>
+       <Land01_4></Land01_4>
+       <Land01_5></Land01_5>
+       <Land01_6></Land01_6>
+       <Land01_7></Land01_7>
+       <Land01_8></Land01_8>
+       <Land01_9></Land01_9>
+       <Land01_10></Land01_10>   
+       <Land02_1></Land02_1>
+       <Land02_2></Land02_2>
+       <Land02_3></Land02_3> 
+       <Land02_4></Land02_4>
+       <Land02_5></Land02_5>
+       <Land02_6></Land02_6>
+       <Land02_7></Land02_7>
+       <Land02_8></Land02_8>
+       <Land02_9></Land02_9>
        <Land03_1></Land03_1> 
        <Land03_2></Land03_2>
        <Land03_3></Land03_3> 
@@ -80,27 +95,8 @@ function App() {
        <Land03_8></Land03_8>
        <Land03_9></Land03_9>
        <Land03_10></Land03_10>
-       <Land03_11></Land03_11> 
-       {/* <Land01_1></Land01_1>
-       <Land01_2></Land01_2>
-       <Land01_3></Land01_3>
-       <Land01_4></Land01_4>
-       <Land01_5></Land01_5>
-       <Land01_6></Land01_6>
-       <Land01_7></Land01_7>
-       <Land01_8></Land01_8>
-       <Land01_9></Land01_9>
-       <Land01_10></Land01_10>   */}
-       {/* <Land02_1></Land02_1>
-       <Land02_2></Land02_2>
-       <Land02_3></Land02_3> 
-       <Land02_4></Land02_4>
-       <Land02_5></Land02_5>
-       <Land02_6></Land02_6>
-       <Land02_7></Land02_7>
-       <Land02_8></Land02_8>
-       <Land02_9></Land02_9>   */}
-       {/* <Land04_1></Land04_1>
+       <Land03_11></Land03_11>     
+       <Land04_1></Land04_1>
        <Land04_2></Land04_2>
        <Land04_3></Land04_3>
        <Land04_4></Land04_4>
@@ -108,8 +104,8 @@ function App() {
        <Land04_7></Land04_7>
        <Land04_8></Land04_8>
        <Land04_9></Land04_9>
-       <Land04_10></Land04_10>  */}
-       {/* <Land06_1></Land06_1>
+       <Land04_10></Land04_10>  
+       <Land06_1></Land06_1>
        <Land06_2></Land06_2>
        <Land06_3></Land06_3>
        <Land06_4></Land06_4>
@@ -117,8 +113,8 @@ function App() {
        <Land06_6></Land06_6>
        <Land06_7></Land06_7>
        <Land06_8></Land06_8>
-       <Land06_9></Land06_9> */}
-       {/* <Land05_1></Land05_1>
+       <Land06_9></Land06_9> 
+       <Land05_1></Land05_1>
        <Land05_2></Land05_2>
        <Land05_3></Land05_3>
        <Land05_4></Land05_4>
@@ -126,7 +122,7 @@ function App() {
        <Land05_6></Land05_6>
        <Land05_7></Land05_7>
        <Land05_8></Land05_8>
-       <Land05_9></Land05_9>  */}
+       <Land05_9></Land05_9>  
        
        
 
