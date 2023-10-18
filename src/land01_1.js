@@ -156,10 +156,10 @@ const Land01_1 = () => {
       
       <div className='row Page1_01Row2'>
       
-         <div className='col-6 tt01'>
+         <div className='col-lg-6 col-12 tt01'>
           <input placeholder='Enter your Email-id' className='Input01'></input>
          </div>
-         <div className='col-5'>
+         <div className='col-lg-5 col-12'>
          <a href="#" className="Fpage01btn"><span className='Fpage01btname'>Get 14 Days Free Trial</span></a>
          </div>
          <div className='col-1'>
@@ -182,17 +182,17 @@ const Land01_1 = () => {
       <div className='Page1_01Card2bg'>
       <img src={cardimg3} alt='' className='Page1_01Card2img2'></img>
         <img src={cardimg2} alt='' className='Page1_01Card2img1'></img>
-        <img src={cardimg4} alt='' className='Page1_01Card2img3'></img>
+        <img src={cardimg4} alt='' className='Page1_01Card2img3 movf'></img>
         </div>
     </div>
   </div>
 </div>
 <div className='row brandrow'>
-  <div className='col'><img src={brand1}></img></div>
-  <div className='col'><img src={brand2}></img></div>
-  <div className='col'><img src={brand3}></img></div>
-  <div className='col'><img src={brand4}></img></div>
-  <div className='col'><img src={brand5}></img></div>
+  <div className='col-lg col-6'><img src={brand1}></img></div>
+  <div className='col-lg col-6'><img src={brand2}></img></div>
+  <div className='col-lg col-6'><img src={brand3}></img></div>
+  <div className='col-lg col-6'><img src={brand4}></img></div>
+  <div className='col-lg col-12'><img src={brand5}></img></div>
 </div>
         </div>
     );

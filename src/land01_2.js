@@ -25,7 +25,7 @@ const Land01_2 = () => {
   <div class="col-sm-6">
   <div class="card Page01_2Card2">
       <div className='Page01_2Card2Content'>
-      <span className='Page01_2text1'><span><img src={texticon} className='iconimg'></img></span>Book Meetings Fast</span>
+      <span className='Page01_2text1'><span><img src={texticon} className='iconimg'></img></span> Book Meetings Fast</span>
       <div>  <h1 className='Page01_2h1'>Connect with leads with zero hassle.</h1> </div>
       <div><p className='Page01_2p'>Chetah gives you the blocks & components you need to create a truly professional website, landing page or admin panel for your SaaS.</p></div>
       </div>

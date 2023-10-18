@@ -24,7 +24,7 @@ const Land01_3 = () => {
   <div class="col-sm-6 ">
     <div class="card Page01_3Card2">
          <div className=' Page01_3Card2bg'>
-         <img src={cardimg1} className='cardbg01-img1'></img>
+         <img src={cardimg1} className='cardbg013-img1'></img>
          <img src={cardimg2} className='shape1'></img>
         </div>
     </div>

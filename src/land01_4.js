@@ -15,7 +15,7 @@ const Land01_4 = () => {
     <div class="card Page01_4Card1">
          <div className=' Page01_4Card1bg'>
          <img src={cardimg1} className='cardbg01-img4'></img>
-        <img src={cardimg3} className='cardbg01-img1'></img>
+        <img src={cardimg3} className='cardbg014-img1'></img>
         <img src={cardimg5} className='cardbg01-img3'></img>
         </div>
     </div>
@@ -29,12 +29,12 @@ const Land01_4 = () => {
       <button class="btn btn-outline-dark navbtn01_4"><b>Get 14 Days Free Trial</b></button>
 
       <div className='row page01_4Row2'>
-        <div className='col-6'>
+        <div className='col-lg-6 col-sm-12'>
         <span><img src={copyicon} className='iconimg01'></img></span>
         <h5>Easy to Copy</h5>
          <p>App gives you all the blocks and components you need</p>
         </div>
-        <div className='col-6'>
+        <div className='col-lg-6 col-sm-12'>
         <span><img src={payicon} className='iconimg01'></img></span>
         <h5>Secure Payments</h5>
          <p>App gives you all the blocks and components you need</p>

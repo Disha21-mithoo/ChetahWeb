@@ -13,14 +13,19 @@
       background-size: cover;
       background-repeat: no-repeat;
   }
-  .cardbg01-img1{
+  .cardbg013-img1{
     height: 370px;
     margin-top: 50px;
-    margin-left: 50px;
+    margin-left: 40px;
   }
   .Page01_3text1{
-    color: orangered;
     margin-left: 20px;
+    font-family: "Inter";
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 28px;
+    color: orangered;
+    
    }
    .iconimg01{
     width: 20px;
@@ -31,21 +36,81 @@
     margin: 5px;
     margin-left:20px;
     text-align: left;
-    font-family: sans-serif;
-    font-size: 60px;
-    line-height: 1.07em;
-    width: 90%;
+    font-family: "Lora",Sans-serif;
+    font-size: 56px;
+    font-weight: 400;
+    line-height: 60px;
+    letter-spacing: -2px;
+    
+    width: 85%;
    }
    .Page01_3p{
     text-align: left;
     margin-top: 20px;
     margin-left: 20px;
-    width: 80%;
+    width: 70%;
+    font-family: 'Inter';
     line-height: 28px;
     font-weight: 400;
     font-style: normal;
-    font-size: 21px;
+    font-size: 18px;
    }
    .Page01_3Card1Content{
-    margin-top: 150px;
+    margin-top: 120px;
+   }
+   @media screen and (max-width: 992px) {
+    .land01_3{
+      padding-left: 40px;
+      padding-right: 40px;
+    }
+   
+    .Page01_3text1{
+      
+      font-size: 16px;
+      font-weight: 500;
+      line-height: 28px;
+      color: orangered;
+      margin-left: 40px;
+     }
+     .Page01_3h1{
+      margin: 0px;
+      margin-left:40px;
+      text-align: left;
+      font-family: "Lora";
+      font-size: 36px;
+      font-weight: 400;
+      line-height: 1em;
+      letter-spacing: auto;
+      
+      width: 85%;
+     } 
+     .Page01_3p{
+      text-align: left;
+      margin-top: 10px;
+      margin-left: 40px;
+      width: 85%;
+      font-family: 'Inter';
+      line-height: 28px;
+      font-weight: 400;
+      font-style: normal;
+      font-size: 16px;
+     }
+     .Page01_3Card1Content{
+      margin-top: 0px;
+     }
+     .Page01_3Card2bg{
+      
+      margin-left: 30px;
+      border-radius: 10px 10px 10px 10px;
+      height: 380px;
+      width: 85%;
+      background-image: url("./images/content-bg1.png");
+      background-size: cover;
+      background-repeat: no-repeat;
+  }
+  .cardbg013-img1{
+    height: 230px;
+    margin-top: 50px;
+    margin-left: 50px;
+  }
    }
