@@ -4,13 +4,15 @@
 
 
 .Page01_5h1{
+    margin-left: 320px;
     text-align: center;
-    width: 700px;
-    margin-left: 300px ;
-    font-size: 60px;
+    font-family: "Lora",Sans-serif;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 1em;
     
-    font-family:'Times New Roman', Times, serif;
-    padding-bottom: 30px;
+    
+    width: 50%;
 }
 .Page01_5Row2{
     padding: 30px;
@@ -31,12 +33,18 @@
 }
 
 @media screen and (max-width: 992px) {
+    .land01_5{
+        padding-left: 40px;
+        padding-right: 40px;
+    }
     .Page01_5h1{
-        text-align: left;
-        width: 450px;
-        margin-left: 20px;
-        font-size: 40px;
-    
+        margin-left: 0px;
+        text-align: center;
+        font-family: "Lora",Sans-serif;
+        font-size: 36px;
+        font-weight: 400;
+        line-height: 1em;
+        width: auto;
     }
     .Page01_5card{
         margin-bottom: 10px;
